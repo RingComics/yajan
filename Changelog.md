@@ -1,6 +1,8 @@
 # Changelog
 ### Versioning
 > X.Y.Z
+> 
+
 X = Major change, not save game safe! Start a new game.
 
 Y = Minor change, should be save game safe, but you may run into issues
