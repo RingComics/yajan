@@ -1,0 +1,21 @@
+{
+  "classLearning":false,
+  "modEnabled":true,
+  "persuasionLimit":true,
+  "limitedTopics":true,
+  "advanceTime":true,
+  "talkKey":{
+    "keyCode":21,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "blackList":[],
+  "repetitionReset":false,
+  "minimumTopics":5,
+  "repetition":true,
+  "advanceTime_maxtime":1,
+  "speechcraftLeveling":true,
+  "dispositionIncrease":true,
+  "advanceTime_minutesxtopic":1
+}

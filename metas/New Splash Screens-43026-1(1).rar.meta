@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=43026
+fileID=1000002285
+url=
+name=New Splash Screens
+description=
+modName=Skyrim Style Splash Screens
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=30
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

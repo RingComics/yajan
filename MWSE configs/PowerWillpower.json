@@ -1,0 +1,11 @@
+{
+  "additiveEnabled":false,
+  "damageAbsorbEnabled":true,
+  "logToConsole":false,
+  "logToFile":false,
+  "defaultWillpower":65,
+  "damageAbsorbThreshold":200,
+  "enabled":true,
+  "resistMultiplier":10,
+  "negativeAllowed":false
+}

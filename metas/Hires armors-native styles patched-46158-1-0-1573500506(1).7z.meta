@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=46158
+fileID=1000016238
+url=
+name=Hires armors-native styles patched
+description=
+modName=Morrowind Graphics Guide Shaders
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=5
+category=36
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

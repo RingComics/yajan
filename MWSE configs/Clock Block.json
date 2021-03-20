@@ -1,0 +1,9 @@
+{
+  "version":1,
+  "components":{
+    "isGameTime":true,
+    "twelveHourMode":false,
+    "clockBottom":false,
+    "turnOnClock":true
+  }
+}

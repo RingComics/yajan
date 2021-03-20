@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=43620
+fileID=1000005212
+url=
+name=Nix-Hound Replacer 1.0
+description=download the mod
+modName=Nix-Hound Replacer
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=9
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

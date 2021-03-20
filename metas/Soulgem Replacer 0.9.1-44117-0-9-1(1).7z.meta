@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=44117
+fileID=1000005601
+url=
+name=Soulgem Replacer 0.9.1
+description=download the mod
+modName=Soulgem Replacer
+version=0.9.1.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=9
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

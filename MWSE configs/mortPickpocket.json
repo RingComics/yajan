@@ -1,0 +1,13 @@
+{
+  "equippedArmorBonus":50,
+  "allowGuardTheft":false,
+  "merchantBonus":30,
+  "equipBonus":40,
+  "equippedItemHiddenCount":false,
+  "maxItemDisplaySize":10,
+  "menuY":4,
+  "menuX":6,
+  "modEnabled":true,
+  "allowArmorTheft":false,
+  "hideTooltip":true
+}

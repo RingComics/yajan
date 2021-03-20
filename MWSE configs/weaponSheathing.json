@@ -1,0 +1,18 @@
+{
+  "showCustom":true,
+  "showShield":true,
+  "showWeapon":true,
+  "blocked":{
+    "hold it - dreamers.esp":true,
+    "hold it - replacer.esp":true,
+    "h.e.l.l.u.v.a. handy holdables.esp":true,
+    "hold it - tr addon.esp":true,
+    "ks_shani":true,
+    "ks_julan":true,
+    "animated morrowind 1.0.esp":true,
+    "random npc pt2.esp":true,
+    "animated_morrowind - merged.esp":true,
+    "animated_morrowind - expanded.esp":true,
+    "animated morrowind ii.esp":true
+  }
+}

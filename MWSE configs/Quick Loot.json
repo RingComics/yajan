@@ -1,0 +1,16 @@
+{
+  "modDisabled":false,
+  "hideTrapped":false,
+  "takeKey":"z",
+  "showScripted":false,
+  "menuY":4,
+  "hideLocked":false,
+  "takeAllKey":"x",
+  "hideTooltip":true,
+  "showPlants":false,
+  "maxItemDisplaySize":10,
+  "showMessageBox":false,
+  "menuX":6,
+  "svengKey":"x",
+  "activateMode":true
+}

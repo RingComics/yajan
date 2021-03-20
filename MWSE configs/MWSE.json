@@ -1,0 +1,7 @@
+{
+  "PatchNiFlipController":true,
+  "EnableLegacyLuaMods":true,
+  "LogWarningsWithLuaStack":true,
+  "KeepAllNetImmerseObjectsAlive":false,
+  "RunInBackground":false
+}

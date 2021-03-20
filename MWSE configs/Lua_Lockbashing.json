@@ -1,0 +1,9 @@
+{
+  "tooltip":1,
+  "MinChance":0,
+  "MaxItems":20,
+  "Break":true,
+  "ConstChance":25,
+  "MaxChance":50,
+  "DegMult":2
+}

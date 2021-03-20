@@ -1,0 +1,12 @@
+{
+  "modEnabled":true,
+  "trapDifficulty":{
+    "midpoint":70,
+    "maxLockLevel":100,
+    "steepness":0.05
+  },
+  "debugEnabled":false,
+  "forgetDuration":300,
+  "version":"0.9.6",
+  "enchantEffect":true
+}

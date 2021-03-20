@@ -1,0 +1,10 @@
+{
+  "showGondola":true,
+  "mainMap":"\\Textures\\tew\\Travel Tooltips\\MW_travelroutes.tga",
+  "showMainMap":true,
+  "fontText":0,
+  "size":"Wide",
+  "fontLabel":2,
+  "scale":75,
+  "mapColour":"Indoril"
+}

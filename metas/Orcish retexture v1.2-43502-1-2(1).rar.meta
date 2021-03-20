@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=43502
+fileID=1000003446
+url=
+name=Orcish retexture v1.2
+description=Fixed lower boots up a bit and optimised all textures plus mip maps with optimizer program..
+modName=Orcish Retexture v1.2
+version=1.2.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=16
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false
