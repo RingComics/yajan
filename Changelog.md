@@ -11,3 +11,9 @@ Z = Fixes, will not break your saves (hopefully)
 
 ## v1.0.0-beta (Current Release)
 Don't get too excited, folks, note the `beta` appended to 1.0.0
+### Changes
+- Re-did MCP options
+
+### Added Mods
+
+### Removed Mods
