@@ -80,6 +80,7 @@
 
 # Credits
 Curated by RingComics
+
 Check YAJAN.wabbajack.manifest (found in releases) on this page to get the full list of mods
 ## Testing
 - [LooseNooseMooseGoose](https://www.twitch.tv/loosenoosemoosegoose)
