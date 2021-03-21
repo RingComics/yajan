@@ -29,11 +29,6 @@ Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objec
 - Tamriel Unlimited
 - Ghost Revenge
 
-### Removed Mods
-- Diligent Defenders
-- No Combat Menu
-- Talking Matters
-
 ## v1.0.0-beta
 Don't get too excited, folks, note the `beta` appended to 1.0.0
 ### Changes
