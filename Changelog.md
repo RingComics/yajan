@@ -20,6 +20,7 @@ Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objec
 - Fixed misnamed and mismeshed Gah-Julan Gauntlets (Closes [#2](https://github.com/RingComics/yajan/issues/2))
 - Fixed tapestry blocking door in Balmora Mages Guild (Closes [#3](https://github.com/RingComics/yajan/issues/3))
 - Fixed floating book in Balmora Mages Guild (Closes [#6](https://github.com/RingComics/yajan/issues/6))
+- Improved the shader chain in MGE
 - Made changes to `morrowind.ini`
 - Added `Merged Objects.esp`
 
