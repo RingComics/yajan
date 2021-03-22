@@ -16,6 +16,7 @@ Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objec
 - Updated Ashfall to v1.1.14 (Closes [5](https://github.com/RingComics/yajan/issues/5))
 - Removed animation conflict with YAJAN
 - Fixed issue with Juniper's Twin Lamps throwing an error on New Game
+- Fixed redundant Zainspulu entrance
 
 ## v2.0.0-beta
 ### Changes
