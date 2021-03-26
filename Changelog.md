@@ -11,13 +11,19 @@ Z = Fixes, will not break your saves (hopefully)
 
 Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
 
-## v2.0.1-beta
+## v2.1.0-beta
 ### Changes
 - Updated Ashfall to v1.1.15 (Closes [5](https://github.com/RingComics/yajan/issues/5))
 - Updated Beautiful Cities of Morrowind to v1.6
 - Removed animation conflict with YAJAN
 - Fixed issue with Juniper's Twin Lamps throwing an error on New Game
 - Fixed redundant Zainspulu entrance
+
+### Added Mods
+- Kogoruhn Ruins
+
+### Removed Mods
+- Kogoruhn Expanded
 
 ## v2.0.0-beta
 ### Changes
