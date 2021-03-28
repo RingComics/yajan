@@ -11,6 +11,16 @@ Z = Fixes, will not break your saves (hopefully)
 
 Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
 
+## v2.1.1-beta
+### Changes
+- Fixed issue with Fort Frostmoth having weird landscape issues
+
+### Added Mods
+
+### Removed Mods
+- TotSP Moldy Horker patch
+
+
 ## v2.1.0-beta
 ### Changes
 - Updated Ashfall to v1.1.15 (Closes [5](https://github.com/RingComics/yajan/issues/5))
@@ -24,6 +34,7 @@ Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objec
 
 ### Removed Mods
 - Kogoruhn Expanded
+
 
 ## v2.0.0-beta
 ### Changes
