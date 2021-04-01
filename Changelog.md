@@ -14,6 +14,7 @@ Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objec
 ## v2.1.1-beta
 ### Changes
 - Fixed issue with Fort Frostmoth having weird landscape issues
+- Fixed several issues with MQO (Closes [#17](https://github.com/RingComics/yajan/issues/17))
 
 ### Added Mods
 
