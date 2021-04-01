@@ -9,12 +9,13 @@ Y = Minor change, should be save game safe, but you may run into issues
 
 Z = Fixes, will not break your saves (hopefully)
 
-Every update regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
+Every update contains load order changes and regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
 
 ## v2.1.1-beta
 ### Changes
 - Fixed issue with Fort Frostmoth having weird landscape issues
 - Fixed several issues with MQO (Closes [#17](https://github.com/RingComics/yajan/issues/17))
+- Updated the Guar Whisperer to 1.3.7
 
 ### Added Mods
 
