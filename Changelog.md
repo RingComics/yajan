@@ -11,6 +11,10 @@ Z = Fixes, will not break your saves (hopefully)
 
 Every update contains load order changes and regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
 
+## v2.1.2-beta
+### Changes
+- Updated the Guar Whisperer to 1.3.8
+
 ## v2.1.1-beta
 ### Changes
 - Fixed issue with Fort Frostmoth having weird landscape issues
