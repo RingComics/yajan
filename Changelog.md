@@ -1,7 +1,6 @@
 # Changelog
 ### Versioning
 > X.Y.Z
-> 
 
 X = Major change, not save game safe! Start a new game.
 
@@ -10,6 +9,44 @@ Y = Minor change, should be save game safe, but you may run into issues
 Z = Fixes, will not break your saves (hopefully)
 
 Every update contains load order changes and regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
+
+## v3.0.0-beta
+### Changes
+- Updated OAAB_Data to 1.6.4
+- Updated Glow in the Dahrk to 2.11.2
+- Updated Ashfall to 1.1.19
+- Updated Vanilla friendly creatures and undeads expansion to 1.6.5
+- Updated QuickLoot to 2.0
+- Updated Lua Lockbashing to 2.1
+- Updated Bardic Inspiration to 3.0.0
+- Updated More Attentive Guards to 1.1.6
+- Updated OAAB Leveled Lists to 2.0
+- Updated Beautiful Cities of Morrowind to 1.6.5
+- Updated OAAB Tel Mora to 2.6
+- Updated Smart Map to 1.05
+
+### Added Mods
+- Randomised Chargen
+- Character Creation Name Generator
+- Morrowind Trading Cards
+- Friends and Foes
+- Taddeus' Foods of Tamriel
+- Wanted Posters
+- Vertical Climbing
+- The Law is Sacred
+- Timely Escape
+- MWSE Hide the Skooma
+- mtrByTheDivines
+- Clear Your Name
+- Brutal Backstabbing
+- Live Free
+- Journal Search and Edit
+- Silt Strider Courier
+- Companion Health Bars
+- Vivec Striderport
+
+### Removed Mods
+- Fligg's Slave Mod
 
 ## v2.1.2-beta
 ### Changes
