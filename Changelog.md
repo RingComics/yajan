@@ -12,6 +12,7 @@ Every update contains load order changes and regenerates Distant Land files, `mu
 ## v3.0.2-beta
 ### Changes
 - Fixed a conflict between Juniper's Twin Lamps and Caldera Mine Expanded
+- Fixed a grass error in the West Gash Region
 ## v3.0.1-beta
 ### Changes
 - Updated Ashfall to 1.2.1
