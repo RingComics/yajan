@@ -9,7 +9,12 @@ Y = Minor change, should be save game safe, but you may run into issues
 Z = Fixes, will not break your saves (hopefully)
 
 Every update contains load order changes and regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
-
+## v3.0.2-beta
+### Changes
+- Fixed a conflict between Juniper's Twin Lamps and Caldera Mine Expanded
+## v3.0.1-beta
+### Changes
+- Updated Ashfall to 1.2.1
 ## v3.0.0-beta
 ### Changes
 - Updated OAAB_Data to 1.6.4
