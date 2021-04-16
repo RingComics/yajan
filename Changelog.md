@@ -13,6 +13,8 @@ Every update contains load order changes and regenerates Distant Land files, `mu
 ### Changes
 - Fixed a conflict between Juniper's Twin Lamps and Caldera Mine Expanded
 - Fixed a grass error in the West Gash Region
+- Updated Foods of Tamriel to 1.2.8
+- Updated Friends and Foes to 1.2.3
 ## v3.0.1-beta
 ### Changes
 - Updated Ashfall to 1.2.1
