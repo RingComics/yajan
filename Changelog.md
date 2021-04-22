@@ -9,6 +9,23 @@ Y = Minor change, should be save game safe, but you may run into issues
 Z = Fixes, will not break your saves (hopefully)
 
 Every update contains load order changes and regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
+## v.4.0.0-beta
+### Changes
+- Updated Beautiful Cities of Morrowind to v1.8
+- Updated Animated Morrowind to v1.3
+- Updated Pickpocket to v1.2.0
+- Updated Ashfall to v1.3.3
+- Updated Morrowind Optimization Patch to v11
+- Updated Remiros' Groundcover to v2.2.1
+- Patched The Sixth House for Stonewood Pass
+- Moved Stock Game into MO2 install
+### Added Mods
+- Just Drop It
+- Marandus Rebuilt
+- The Blight
+- Stonewood Pass
+- Quick Equip
+- The Midnight Oil
 ## v3.0.2-beta
 ### Changes
 - Fixed a conflict between Juniper's Twin Lamps and Caldera Mine Expanded
