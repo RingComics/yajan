@@ -15,24 +15,31 @@
 - Capture the experience of surviving in a harsh, alien land.
 - Carefully balance gameplay, visuals, and performance to avoid low framerates.
 - Update the visuals to more closely represent today’s standards without sacrificing the original art style.
+## Introduction
+You Are Just an N'wah adds 300+ mods to overhaul the land of Vvardenfell (and beyond, if you choose) to really send home the idea that you are an outlander in an alien land. You need to eat, drink, sleep, and pay attention to the weather. You can become injured, reducing your stats. You can no longer *all* of your skills to ungodly levels, but those skills you do focus on can now go beyond vanilla levels. Skills are now more useful than they were before. As an example, Acrobatics is no longer just how far you can jump with the new Climbing Equipment, now you can reach areas that were previously only accessable with Levitate by scaling the wall. Enemies (and allies) have been tweaked so rats are no longer as hostile, but you'll find other enemies are now far deadlier. And you can't just drink 5 bottles of Sujamma to cheese every battle.
+
+Graphics have seen a facelift, with the goal not being add as many high res textures as possible, rather maintain the same feeling you'd have gotten in 2002, booting up the game for the first time and experiencing an alien land without thinking about how new or dated the graphics look.
+
+The name of the game is roleplaying in YAJAN; don't worry about minmaxing your character, simply play the way you feel your character would and progression will come naturally. If you wish to learn about more of added mechanics in detail, check out the [wiki!](https://github.com/RingComics/yajan/wiki)
 ## Requirements
-- Steam or GOG version of Morrowind (Bethesda.net version untested)
+- A legal copy of Morrowind (pirated versions will not get support)
+  - YAJAN WILL ***NOT*** WORK WITH OPENMW
 - DirectX 9 or later
 - Visual C++ 2019
 - 4GB+ of VRAM
 - Nexus Premium (for automatic installation, list can still be downloaded the long way through Wabbajack with a free account)
 
 # Installation
-1. Install Morrowind somewhere outside of Program Files.
-2. Install [Wabbajack](https://www.wabbajack.org/#/) on the same drive as Morrowind, preferably close to the root of your drive.
-3. Make a folder on the same drive as Morrowind for YAJAN.
+1. Install Morrowind somewhere outside of Program Files, for example `C:\Games\Morrowind`.
+2. Install [Wabbajack](https://www.wabbajack.org/#/) on the same drive as Morrowind, preferably close to the root of your drive (`C:\Wabbajack`).
+3. Make a folder on the same drive as Morrowind for YAJAN (`C:\Games\YAJAN`).
 4. Download the [latest .wabbajack file](https://github.com/RingComics/yajan/releases/latest) and double click it to start the installation.
-5. Make the folder you created in step 3 your install folder in Wabbajack.
+5. Make the folder you created in step 3 your install folder in Wabbajack, the other fields should fill in automatically.
 6. Click install!
+    - If the install fails, try restarting it (it can take two or more restarts sometimes). Wabbajack will remember its place and will only download what it's missing.
     - Head over to the [RingComics Discord](http://discord.gg/6wusMF6) for support if you get stuck here!
 7. Move the contents of the Game Folder Files folder to your Morrowind installation.
-    - Note to Azura’s Star users: You can only have one Morrowind modlist installed at any time due to the need for patching the executable. I’m currently looking for a solution to this problem, but for now this is the way things are.
-8. Follow the below steps for running the Morrowind Code Patch. DO NOT RUN MCP IN MOD ORGANIZER. Options not listed below can be configured to your taste.
+9. Follow the below steps for running the Morrowind Code Patch. DO NOT RUN MCP IN MOD ORGANIZER. Options not listed below can be configured to your taste.
     - Game Mechanics - ALL ON EXCEPT:
       - Swift casting
       - Pickpocket Overhaul
@@ -60,12 +67,12 @@
       - Better typography: Off
       - Ownership tooltip: Off
     - Bug Fixes - ALL ON
-9. Hit “Apply Chosen Patches”
-10. MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
+10. Hit “Apply Chosen Patches”
+11. Run `MWSE-Update.exe` in your Morrowind install folder (`C:\Games\Morrowind`) to make sure MWSE is updated.
+12. MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
     - Changing shader settings at all will wipe my current configs, so be careful
     - It is not recommended you increase view distance further than 10 cells in the Distant Land Window
-11. Run MWSE-Update.exe ***OUTSIDE OF MO2***.
-12. You can now launch the game through MO2 using the "Morrowind" executable.
+14. You can now launch the game through MO2 using the "Morrowind" executable.
 
 
 # Troubleshooting
@@ -75,6 +82,7 @@
 ![Error](https://cdn.discordapp.com/attachments/783306335675875329/809672689648140338/unknown.png)
 - If you can’t type in a text box in game, change the “background keyboard” line in morrowind.ini to 1
 - If your game crashes when loading a save, uninstall Morrowind completely, and reinstall. This usually happens when updating YAJAN to a new version.
+- Check the pinned messages in `#yajan-support` in the [RingComics Discord](http://discord.gg/6wusMF6) server before asking for help, your problem may already be listed!
 
 
 
