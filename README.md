@@ -38,37 +38,7 @@ The name of the game is roleplaying in YAJAN; don't worry about minmaxing your c
 6. Click install!
     - If the install fails, try restarting it (it can take two or more restarts sometimes). Wabbajack will remember its place and will only download what it's missing.
     - Head over to the [RingComics Discord](http://discord.gg/6wusMF6) for support if you get stuck here!
-7. Move the contents of the Game Folder Files folder to your Morrowind installation.
-9. Follow the below steps for running the Morrowind Code Patch. DO NOT RUN MCP IN MOD ORGANIZER. Options not listed below can be configured to your taste.
-    - Game Mechanics - ALL ON EXCEPT:
-      - Swift casting
-      - Pickpocket Overhaul
-      - Followers defend immediately
-      - Healthy appetite
-      - Racial variation in speed fix
-      - Strength-based hand to hand damage
-      - Spellmaking max. magnitude increase
-      - Spellmaker/enchant multiple effects
-    - Visuals:
-      - Rain/snow Collision: On
-      - Bump/reflect map local lighting: On
-      - Over-the-shoulder third person camera: Off
-      - Reduce camera clipping: On
-    - Mod Specific - ALL OFF EXCEPT:
-      - Scripted music uninterruptible
-      - Seperate axe inventory sounds
-      - Hi-def cutscene support
-    - Interface Changes:
-      - Map expansion: Off
-      - Disable map smoothing: Off
-      - Level-up skills tooltip: On
-      - Persuasion improvement: On
-      - Spellmaker/enchanting improvement: On
-      - Better typography: Off
-      - Ownership tooltip: Off
-    - Bug Fixes - ALL ON
-10. Hit “Apply Chosen Patches”
-11. Run `MWSE-Update.exe` in your Morrowind install folder (`C:\Games\Morrowind`) to make sure MWSE is updated.
+11. Run `MWSE-Update.exe` in your Stock Game Folder (`C:\Games\YAJAN\Stock Game Folder`) to make sure MWSE is updated.
 12. MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
     - Changing shader settings at all will wipe my current configs, so be careful
     - It is not recommended you increase view distance further than 10 cells in the Distant Land Window
