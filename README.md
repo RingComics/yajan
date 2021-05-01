@@ -44,6 +44,8 @@ The name of the game is roleplaying in YAJAN; don't worry about minmaxing your c
     - It is not recommended you increase view distance further than 10 cells in the Distant Land Window
 14. You can now launch the game through MO2 using the "Morrowind" executable.
 
+# Tamriel Rebuilt
+If you want to use Tamriel Rebuilt, change the MO2 profile from YAJAN to Tamriel Rebuilt. All of the needed patches and changes are installed automatically, including distant land! Keep in mind that even with the fixes installed, TR is still in development and there will be issues. I will not be making custom patches for problems caused by TR. The western side of the mainland is only the *preview* version, so there will be limited to no content over there outside of exploration.
 
 # Troubleshooting
 - If you get a CTD on launch, find MGE in your downloads folder and extract it to your Morrowind install, overwriting the old one. Reconfigure and update MWSE
