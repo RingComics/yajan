@@ -50,10 +50,9 @@ If you want to use Tamriel Rebuilt, change the MO2 profile from YAJAN to Tamriel
 # Troubleshooting
 - If you get a CTD on launch, find MGE in your downloads folder and extract it to your Morrowind install, overwriting the old one. Reconfigure and update MWSE
 - If you get this error, just hit yes to all
-
 ![Error](https://cdn.discordapp.com/attachments/783306335675875329/809672689648140338/unknown.png)
 - If you can’t type in a text box in game, change the “background keyboard” line in morrowind.ini to 1
-- If your game crashes when loading a save, uninstall Morrowind completely, and reinstall. This usually happens when updating YAJAN to a new version.
+- If you get a missing ESP or MCP error message when running the game, replace the exe in `Stock Game Folder` with the vanilla one from your install, then run the MCP again. The MCP options are saved, just hit `Apply Patches`
 - Check the pinned messages in `#yajan-support` in the [RingComics Discord](http://discord.gg/6wusMF6) server before asking for help, your problem may already be listed!
 
 
