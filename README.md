@@ -38,6 +38,7 @@ The name of the game is roleplaying in YAJAN; don't worry about minmaxing your c
 6. Click install!
     - If the install fails, try restarting it (it can take two or more restarts sometimes). Wabbajack will remember its place and will only download what it's missing.
     - Head over to the [RingComics Discord](http://discord.gg/6wusMF6) for support if you get stuck here!
+7. Run `Morrowind.exe` in Stock Game Folder to the menu, then exit.
 11. Run `MWSE-Update.exe` in your Stock Game Folder (`C:\Games\YAJAN\Stock Game Folder`) to make sure MWSE is updated.
 12. MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
     - Changing shader settings at all will wipe my current configs, so be careful
@@ -46,6 +47,8 @@ The name of the game is roleplaying in YAJAN; don't worry about minmaxing your c
 
 # Tamriel Rebuilt
 If you want to use Tamriel Rebuilt, change the MO2 profile from YAJAN to Tamriel Rebuilt. All of the needed patches and changes are installed automatically, including distant land! Keep in mind that even with the fixes installed, TR is still in development and there will be issues. I will not be making custom patches for problems caused by TR. The western side of the mainland is only the *preview* version, so there will be limited to no content over there outside of exploration.
+
+Tamriel Rebuilt also has memory issues with YAJAN, so you may experience a lot of crashing. I recommend [this](https://www.nexusmods.com/morrowind/mods/45696) mod to avoid losing progress.
 
 # Troubleshooting
 - If you get a CTD on launch, find MGE in your downloads folder and extract it to your Morrowind install, overwriting the old one. Reconfigure and update MWSE
