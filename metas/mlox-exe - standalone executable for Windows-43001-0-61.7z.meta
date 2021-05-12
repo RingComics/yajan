@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=43001
+fileID=1000004129
+url=
+name=mlox-exe - standalone executable for Windows
+description=Standalone Windows executable version requires Microsoft Visual C++ 2008 Redistributable Package.
+modName=mlox
+version=0.61.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=15
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

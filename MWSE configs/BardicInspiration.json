@@ -1,0 +1,9 @@
+{
+  "enabled":true,
+  "logLevel":"INFO",
+  "innkeepers":{
+    "lirielle stoine":true,
+    "arrille":true,
+    "phane rielle":true
+  }
+}

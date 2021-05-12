@@ -1,13 +1,21 @@
 {
-  "equippedArmorBonus":50,
   "allowGuardTheft":false,
   "merchantBonus":30,
   "equipBonus":40,
-  "equippedItemHiddenCount":false,
-  "maxItemDisplaySize":10,
-  "menuY":4,
-  "menuX":6,
+  "pickpocketCrimeValue":25,
+  "hideTooltip":true,
+  "invisFix":true,
+  "allowEquippedJewelryTheft":true,
+  "allowWeaponTheft":false,
+  "equippedArmorBonus":50,
   "modEnabled":true,
+  "menuY":4,
+  "allowShieldTheft":false,
+  "maxItemDisplaySize":10,
+  "useItemValueCrime":false,
+  "pickpocketExpValue":2,
+  "menuX":6,
+  "equippedItemHiddenCount":false,
   "allowArmorTheft":false,
-  "hideTooltip":true
+  "weaponTheftCrime":true
 }

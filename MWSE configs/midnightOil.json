@@ -1,0 +1,13 @@
+{
+  "staticLightsOnly":true,
+  "merchants":[],
+  "toggleHotkey":{
+    "keyCode":42
+  },
+  "settlementsOnly":true,
+  "dawnHour":6,
+  "varianceInMinutes":30,
+  "enabled":true,
+  "duskHour":20,
+  "useVariance":true
+}

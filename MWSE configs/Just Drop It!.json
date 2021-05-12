@@ -1,0 +1,11 @@
+{
+  "blacklist":{
+    "ashfall.esp":true
+  },
+  "orientOnDeath":true,
+  "maxSteepnessTall":5,
+  "maxSteepnessFlat":50,
+  "enabled":true,
+  "debug":false,
+  "noOrientNonStatic":false
+}

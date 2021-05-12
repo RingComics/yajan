@@ -1,0 +1,11 @@
+{
+  "baseBlightTransmissionChance":10,
+  "enablePassiveTransmission":true,
+  "enableActiveTransmission":true,
+  "debugMode":false,
+  "enableProtectiveGear":true,
+  "enableBlightstormTransmission":true,
+  "enableDecalMapping":true,
+  "enableNpcProtectiveGearDistribution":true,
+  "enableTooltip":true
+}

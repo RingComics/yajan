@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=46870
+fileID=1000023020
+url=
+name=TES3Merge v0.8
+description="<a href=\"https://github.com/NullCascade/TES3Merge/blob/master/changelog.md\">View changelog</a>."
+modName=TES3Merge
+version=0.8.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=15
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

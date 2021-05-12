@@ -1,6 +1,6 @@
 {
-  "varianceInMinutes":30,
+  "useVariance":true,
   "duskHour":20,
   "dawnHour":6,
-  "useVariance":true
+  "varianceInMinutes":30
 }

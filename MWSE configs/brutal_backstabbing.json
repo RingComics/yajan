@@ -1,0 +1,9 @@
+{
+  "stabAttacksOnly":true,
+  "enableBrutalBackstabbing":true,
+  "enabledWeaponTypes":{
+    "Short Blades":true,
+    "Marksman Weapons":true
+  },
+  "showBackStabMsg":true
+}

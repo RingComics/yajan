@@ -1,7 +1,7 @@
 {
-  "minor":70,
-  "modEnabled":true,
-  "misc":40,
-  "limitTraining":true,
-  "major":100
+  "minor": 90,
+  "modEnabled": true,
+  "misc": 45,
+  "limitTraining": true,
+  "major": 115
 }

@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=45439
+fileID=1000016063
+url=
+name=Wrye Mash 2019 - x64 -  manual installation archive.
+description=It is highly recommended doing a \"Full Refresh\" after installation. It fixes things in between version updates.\n<br /><br /><b>This is the recommended manual installation download. Orders of magnitude faster than the x86 version.</b>
+modName=Wrye Mash - Polemos fork  - 2021
+version=100.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=15
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false
