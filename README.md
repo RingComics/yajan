@@ -23,9 +23,12 @@ Graphics have seen a facelift, with the goal not being add as many high res text
 The name of the game is roleplaying in YAJAN; don't worry about minmaxing your character, simply play the way you feel your character would and progression will come naturally. If you wish to learn about more of added mechanics in detail, check out the [wiki!](https://github.com/RingComics/yajan/wiki)
 
 ## Tamriel Rebuilt
-If you want to use Tamriel Rebuilt, change the MO2 profile from YAJAN to Tamriel Rebuilt. All of the needed patches and changes are installed automatically, including distant land! Keep in mind that even with the fixes installed, TR is still in development and there will be issues. I will not be making custom patches for problems caused by TR. The western side of the mainland is only the *preview* version, so there will be limited to no content over there outside of exploration.
-
-Tamriel Rebuilt also has memory issues with YAJAN, so you may experience a lot of crashing. I recommend [this](https://www.nexusmods.com/morrowind/mods/45696) mod to avoid losing progress. It will be included with future versions of YAJAN TR
+Tamriel Rebuilt is no longer officially supported for YAJAN. Memory issues cause frequent crashes and it can be a massive pain. I do not recommend you use TR with YAJAN. However, if you choose to do so, the below mods need patches to work with TR.
+- [Remiros Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+- [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+- [Seasonal Weather of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46075)
+- [Friends and Foes](https://www.nexusmods.com/morrowind/mods/49251)
+You will also need to rerun Distant Land in MGE XE. If you find other mods that need patches, let me know and I will add them to this list.
 
 ## Requirements
 - A legal copy of Morrowind (pirated versions are not supported)
