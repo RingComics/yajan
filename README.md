@@ -28,6 +28,7 @@ Tamriel Rebuilt is no longer officially supported for YAJAN. Memory issues cause
 - [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
 - [Seasonal Weather of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46075)
 - [Friends and Foes](https://www.nexusmods.com/morrowind/mods/49251)
+
 You will also need to rerun Distant Land in MGE XE. If you find other mods that need patches, let me know and I will add them to this list.
 
 ## Requirements
