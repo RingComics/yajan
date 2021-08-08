@@ -55,7 +55,7 @@ Other versions of Morrowind are ***NOT SUPPORTED***
 6. Click install!
     - If the install fails, try restarting it (it can take two or more restarts sometimes). Wabbajack will remember its place and will only download what it's missing.
     - Head over to the [RingComics Discord](http://discord.gg/6wusMF6) for support if you get stuck here!
-7. Run `Morrowind.exe` in Stock Game Folder to the menu, then exit.
+7. Run `Morrowind.exe` in Stock Game Folder to the menu, then exit. If you get the Application Load Error, that's fine, move on to the next step.
     - GOG/Bethesda.net users: If you get a Steam error when you run Morrowind, you need to replace the exe in Stock Game Folder with your original, unpatched vanilla one, then run the Morrowind Code Patch (see above in the "GOG / Bethesda.net versions of Morrowind" section of this readme.)
 11. Run `MWSE-Update.exe` in your Stock Game Folder (`C:\Games\YAJAN\Stock Game Folder`) to make sure MWSE is updated.
 12. MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
