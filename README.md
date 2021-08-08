@@ -37,6 +37,7 @@ You will also need to rerun Distant Land in MGE XE. If you find other mods that 
 - A legal copy of Morrowind (pirated versions are not supported)
   - YAJAN WILL ***NOT*** WORK WITH OPENMW
 - DirectX 9 or later
+- .NET Framework 3.5
 - Visual C++ 2019
 - 4GB+ of VRAM
 - Nexus Premium (for automatic installation, list can still be downloaded the long way through Wabbajack with a free account)
@@ -47,7 +48,7 @@ YAJAN is compiled using the Steam version of Morrowind. If you use the GOG or Be
 Other versions of Morrowind are ***NOT SUPPORTED***
 
 # Installation
-1. Install Morrowind somewhere outside of Program Files, for example `C:\Games\Morrowind`.
+1. Install Morrowind somewhere outside of Program Files, for example `C:\Games\Morrowind`. Run it at least once to the menu.
 2. Install [Wabbajack](https://www.wabbajack.org/#/) on the same drive as Morrowind, preferably close to the root of your drive (`C:\Wabbajack`).
 3. Make a folder on the same drive as Morrowind for YAJAN (`C:\Games\YAJAN`).
 4. Download the [latest .wabbajack file](https://github.com/RingComics/yajan/releases/latest) and double click it to start the installation.
@@ -77,6 +78,10 @@ Other versions of Morrowind are ***NOT SUPPORTED***
 # Credits
 Curated by RingComics
 
+Support team:
+  - Calum
+  - bosgal
+
 Check YAJAN.wabbajack.manifest (found in releases) on [this](https://www.wabbajack.org/#/modlists/manifest) page to get the full list of mods and their authors.
 ## Testing
 - [LooseNooseMooseGoose](https://www.twitch.tv/loosenoosemoosegoose)
@@ -87,6 +92,6 @@ Check YAJAN.wabbajack.manifest (found in releases) on [this](https://www.wabbaja
 ## Special Thanks
 - The Morrowind Modding Community Discord for freely sharing their wealth of knowledge kindly and patiently
 - The Ultimate Skyrim dev team, for inspiring and supporting me (<3 u guys)
-- The Wabbajack modlist-development-help channel for answering my stupid questions
+- The Wabbajack folks for answering my stupid questions and making modlists accessable for everyone.
 - RandomPal, Merlord, ForgottenGlory, and NullCascade for inspiring and helping me to get into modding/modmaking for Morrowind
 - You, for reading this far and playing YAJAN. You may just be an N'wah, outlander, but it means a lot.
