@@ -3,5 +3,5 @@
   "LogWarningsWithLuaStack":true,
   "EnableLegacyLuaMods":true,
   "KeepAllNetImmerseObjectsAlive":false,
-  "RunInBackground":false
+  "RunInBackground":true
 }

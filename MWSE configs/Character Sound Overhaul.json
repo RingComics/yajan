@@ -1,0 +1,23 @@
+{
+  "NPCfootstepVolume":85,
+  "altArmor":true,
+  "PCarmorVolume":65,
+  "itemVolume":75,
+  "armorSounds":true,
+  "PCweatherFootstepVolume":60,
+  "NPCweatherFootstepVolume":80,
+  "thumps":false,
+  "lootSounds":true,
+  "journalSounds":true,
+  "NPCarmorVolume":85,
+  "itemUseSounds":true,
+  "miscVolume":75,
+  "weatherSounds":true,
+  "PCweaponVolume":65,
+  "debugMode":false,
+  "weaponSounds":true,
+  "PCfootstepVolume":65,
+  "footstepSounds":true,
+  "NPCweaponVolume":85,
+  "itemSounds":true
+}

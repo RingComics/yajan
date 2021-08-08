@@ -3,11 +3,11 @@
   "modEnabled":true,
   "allowTaunt":50,
   "allowAdmire":25,
-  "combatTalk":100,
+  "showFight":50,
   "allowIntimidate":50,
   "guardPenalty":20,
   "bribeDecreasesAlarm":75,
   "showDisposition":25,
   "pauperBonus":40,
-  "showFight":50
+  "combatTalk":100
 }

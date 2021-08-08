@@ -1,11 +1,11 @@
 {
   "greetingCheckGlobal":"WearingOrdinatorUni",
+  "inconspicuousRobes":true,
+  "requiredTempleRank":6,
+  "armorScript":"OrdinatorUniform",
   "strings":{
     "labelProhibitedToWear":"Prohibited to wear. Ordinators will not take kindly to me wearing this in public.",
     "labelSanctionedToWear":"Sanctioned to wear. I earned my right to wear this sacred armor. I shall do this with respect and pride."
   },
-  "armorScript":"OrdinatorUniform",
-  "inconspicuousRobes":true,
-  "requiredTempleRank":6,
   "cautiousMerchants":true
 }

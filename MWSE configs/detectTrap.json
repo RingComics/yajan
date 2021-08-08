@@ -5,8 +5,8 @@
     "maxLockLevel":100,
     "steepness":0.05
   },
-  "debugEnabled":false,
+  "enchantEffect":true,
   "forgetDuration":300,
   "version":"0.9.6",
-  "enchantEffect":true
+  "debugEnabled":false
 }

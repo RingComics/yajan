@@ -1,5 +1,6 @@
 {
-  "keybindShowAdditionalInfo":[56],
+  "displayRestTargetHour":true,
+  "version":1.2,
   "mapConfig":{
     "minY":-59,
     "maxY":29,
@@ -10,8 +11,27 @@
   },
   "transferItemsByDefault":false,
   "useInventoryTextButtons":true,
-  "keybindClose":[57],
+  "keybindClose":{
+    "keyCode":57,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":false
+  },
+  "previousConsoleEntries":[{
+      "lua":false,
+      "text":""
+    },{
+      "lua":false,
+      "text":"coc aldruhn"
+    },{
+      "lua":false,
+      "text":"coc ald'ruhn"
+    },{
+      "lua":false,
+      "text":"coc \"ald'ruhn\""
+    }],
   "components":{
+    "serviceSpells":true,
     "options":true,
     "dialog":true,
     "mapPlugin":false,
@@ -20,6 +40,7 @@
     "barter":true,
     "rest":true,
     "saveLoad":true,
+    "copyPaste":true,
     "inventorySelect":true,
     "tooltip":true,
     "training":true,
@@ -30,17 +51,36 @@
     "magic":true,
     "inventory":true
   },
-  "keybindTakeAll":[29,57],
-  "keybindMapSwitch":[184],
+  "keybindTakeAll":{
+    "keyCode":57,
+    "isShiftDown":false,
+    "isControlDown":true,
+    "isAltDown":false
+  },
+  "displayRatio":false,
+  "consoleHistoryLimit":10,
+  "keybindMapSwitch":{
+    "keyCode":184,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":true
+  },
+  "changeMapModeOnCellChange":true,
   "displayWeekday":true,
   "autoSelectInput":"Magic",
+  "alwaysClearFiltersOnOpen":true,
   "maxWait":1,
   "dialogueTopicSeenColor":"journal_finished_quest_color",
   "takeFilteredItems":true,
-  "version":1.2,
-  "showHelpText":true,
+  "keybindShowAdditionalInfo":{
+    "keyCode":56,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":true
+  },
+  "useSearch":true,
   "selectSpellsOnSearch":true,
   "autoFilterToTradable":true,
-  "useSearch":true,
+  "showHelpText":true,
   "dialogueTopicUniqueColor":"link_color"
 }

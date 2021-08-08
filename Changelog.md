@@ -1,147 +1,124 @@
 # Changelog
-### Versioning
-> X.Y.Z
 
-X = Major change, not save game safe! Start a new game.
+<details>
 
-Y = Minor change, should be save game safe, but you may run into issues
+<summary>Versioning</summary>
 
-Z = Fixes, will not break your saves (hopefully)
+```md
+> X.Y.ZpN
 
-Every update contains load order changes and regenerates Distant Land files, `multipatch.esp`, and `Merged Objects.esp`
-## v.4.0.0-beta
+# X = Major change, not save game safe! Start a new game.
+
+# Y = Minor change, should be save game safe, but you may run into issues
+
+# Z = Fixes, will not break your saves (hopefully)
+
+# p = Indicates this is a pre-release (Preview Builds)
+
+# N = Which preview build this is
+```
+
+</details>
+
+<details>
+<summary>Template</summary>
+
+```md
+## version
+
+Summary
+
+### Added mods
+
+-
+
+### Removed mods
+
+-
+
 ### Changes
-- Updated Beautiful Cities of Morrowind to v1.8
-- Updated Animated Morrowind to v1.3
-- Updated Pickpocket to v1.2.0
-- Updated Ashfall to v1.3.3
-- Updated Morrowind Optimization Patch to v11
-- Updated Remiros' Groundcover to v2.2.1
-- Patched The Sixth House for Stonewood Pass
-- Moved Stock Game into MO2 install
-### Added Mods
-- Just Drop It
-- Marandus Rebuilt
-- The Blight
-- Stonewood Pass
-- Quick Equip
-- The Midnight Oil
-## v3.0.2-beta
-### Changes
-- Fixed a conflict between Juniper's Twin Lamps and Caldera Mine Expanded
-- Fixed a grass error in the West Gash Region
-- Updated Foods of Tamriel to 1.2.8
-- Updated Friends and Foes to 1.2.3
-## v3.0.1-beta
-### Changes
-- Updated Ashfall to 1.2.1
-## v3.0.0-beta
-### Changes
-- Updated OAAB_Data to 1.6.4
-- Updated Glow in the Dahrk to 2.11.2
-- Updated Ashfall to 1.1.19
-- Updated Vanilla friendly creatures and undeads expansion to 1.6.5
-- Updated QuickLoot to 2.0
-- Updated Lua Lockbashing to 2.1
-- Updated Bardic Inspiration to 3.0.0
-- Updated More Attentive Guards to 1.1.6
-- Updated OAAB Leveled Lists to 2.0
-- Updated Beautiful Cities of Morrowind to 1.6.5
-- Updated OAAB Tel Mora to 2.6
-- Updated Smart Map to 1.05
 
-### Added Mods
-- Randomised Chargen
-- Character Creation Name Generator
-- Morrowind Trading Cards
-- Friends and Foes
-- Taddeus' Foods of Tamriel
-- Wanted Posters
-- Vertical Climbing
-- The Law is Sacred
-- Timely Escape
-- MWSE Hide the Skooma
-- mtrByTheDivines
-- Clear Your Name
-- Brutal Backstabbing
-- Live Free
-- Journal Search and Edit
-- Silt Strider Courier
-- Companion Health Bars
-- Vivec Striderport
+-
 
-### Removed Mods
-- Fligg's Slave Mod
+### Updated mods
 
-## v2.1.2-beta
-### Changes
-- Updated the Guar Whisperer to 1.3.8
+-
 
-## v2.1.1-beta
-### Changes
-- Fixed issue with Fort Frostmoth having weird landscape issues
-- Fixed several issues with MQO (Closes [#17](https://github.com/RingComics/yajan/issues/17))
-- Updated the Guar Whisperer to 1.3.7
+### TODO
 
-### Added Mods
+-
+```
 
-### Removed Mods
-- TotSP Moldy Horker patch
+</details>
 
+## v6.0.0p1 - Introducing Preview Builds!
 
-## v2.1.0-beta
-### Changes
-- Updated Ashfall to v1.1.15 (Closes [5](https://github.com/RingComics/yajan/issues/5))
-- Updated Beautiful Cities of Morrowind to v1.6
-- Removed animation conflict with YAJAN
-- Fixed issue with Juniper's Twin Lamps throwing an error on New Game
-- Fixed redundant Zainspulu entrance
+Whenever I finish work on something related to YAJAN, it will be compiled and posted on GitHub, but not uploaded to the Wabbajack Gallery. This way I can update mods, make small changes, and experiment between official releases, as well as use the release page as a changelog. If you want to test out the latest features and gain access to the `#mod-suggestions` channel on Discord.
 
-### Added Mods
-- Kogoruhn Ruins
+Preview versions are denoted a `p[preview version]` at the end of the version. This is the first preview working towards a `6.0.0` release, so it is `v6.0.0p1`
 
-### Removed Mods
-- Kogoruhn Expanded
+WARNING: Preview Builds are likely to be unstable and may have more bugs/stability issues than the current Wabbajack version. Please report them [here](https://github.com/RingComics/yajan/issues).
 
+### Added mods
 
-## v2.0.0-beta
-### Changes
-- Illuminated Order cave below the bridge North of Balmora is now accessable
-- Sixth House cave, Cthulu, is now accessable
-- OAAB Tombs and Towers merged with Illuminated Order changes in the Tomb outside Hla Oad
-- The Illuminated Order rumor now always triggers in the Eight Plates for testing purposes
-- Fixed misnamed and mismeshed Gah-Julan Gauntlets (Closes [#2](https://github.com/RingComics/yajan/issues/2))
-- Fixed tapestry blocking door in Balmora Mages Guild (Closes [#3](https://github.com/RingComics/yajan/issues/3))
-- Fixed floating book in Balmora Mages Guild (Closes [#6](https://github.com/RingComics/yajan/issues/6))
-- Improved the shader chain in MGE
-- Made changes to `morrowind.ini`
-- Added `Merged Objects.esp`
+- [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
+- [More believable bandit camps - an addon for Ashfall](https://www.nexusmods.com/morrowind/mods/50066)
+- [NPCs Go Home](https://github.com/celediel/Morrowind-NPCs-Go-Home)
+- [The Corprusarium Experience](https://www.nexusmods.com/morrowind/mods/49738)
+- [Subtle Animated Menu Background Assemble](https://www.nexusmods.com/morrowind/mods/50037)
+- [Fish with Fishing Poles Expansion](https://www.nexusmods.com/morrowind/mods/50065)
+- [Shield Spells Reforged Pt. 1](https://www.nexusmods.com/morrowind/mods/50073)
+- [Opponent Fatigue Indicator](https://www.nexusmods.com/morrowind/mods/50060)
+- [Save the Date](https://www.nexusmods.com/morrowind/mods/50074)
+- [Ket's Poison](https://www.nexusmods.com/morrowind/mods/48911)
+- [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557)
 
-### Added Mods
-- Fligg's Slave Mod
-- Brother Juniper's Twin Lamps
-- Diverse Khajiit
-- Tamriel Unlimited
-- Ghost Revenge
+### Removed mods
 
-## v1.0.0-beta
-Don't get too excited, folks, note the `beta` appended to 1.0.0
-### Changes
-- Re-did MCP options
-- Updated Ashfall to 1.1.13
-- Updated Animated Morrowind to 1.2
-- Updated Sheogorad - Groves of the North to 1.4
-- Updated Tomb of the Snow Prince to 2.2.2
-- Updated Properly Clothed NPCs to 2.0
-- Updated Mines and Caverns to 6.2
-- Regenerated Distant Land (hopefully with correct grass now)
-- Regenerated multipatch.esp
-
-### Added Mods
-- Darker Morrowind Mods
+- Happy Harvesting
+  - _Covered by Graphic Herbalism_
+- Atmospheric Delights
+  - _Merged into BCoM_
 - Endrek's Sixth House
+- The Tribe Unmourned
+  - _I will likely add these mods back later on, but right now I'm focusing on compatibility with the core mods. New content will be next after I'm happy with the current load order's stability. New gameplay/immersion/QoL mods will continue to be installed and tweaked until then._
 
-### Removed Mods
-- Diligent Defenders
-- No Combat Menu
-- Talking Matters
+### Changes
+
+- Started work on alternate graphics presets (requested by Paradoxial on Discord)
+- Sorted load order
+- Updated `Merged Objects.esp`
+- Updated `multipatch.esp`
+- Disabled `Ashfall`'s Blight transmission mechanics as they are covered by `The Blight`
+- Enabled "Alternative Armor Weight Mechanic" for `Character Sound Overhaul`
+- Disabled lockbashing with fists.
+- Disabled guards following the player when caught sneaking for compatibility with companion mods.
+- Updated meta files
+- Removed manifest from source code, manifests will be contained on the release page exclusively.
+- Updated Changelog policy and format.
+- Updated `README.md`
+- `YAJAN Additional Files` is now compressed using the `.7z` format
+
+### Updated mods
+
+- `Magicka Expanded` to v2.06
+- `MGE XE` to v0.13.5
+- `Ashfall` to v2.2.1
+- Fixed version for `Mantle of Ascension`
+- `Vanilla friendly creatures and undeads expansion` to v1.8.0
+- `MWSE State-Based Health` to v1.3
+- `Memory Monitor` to v2.2.1
+- `Sophisticated Save System` to v2.0
+- `Perfect Placement` to v2.0
+- `Taddeus' Foods of Tamriel` to v1.3.5
+- `Friends and Foes` to v1.6
+- `The Blight` to v1.4
+- `UI Expansion` to v1.5.1
+- `Beautiful Cities of Morrowind` (core mod, grass, and associated patches) to v2.1.2
+- `YAJAN Additional Files` to v4
+
+### TODO
+
+- Run Fixit
+- Regen Distant Land
+- Clean loose files

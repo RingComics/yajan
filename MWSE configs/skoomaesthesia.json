@@ -1,0 +1,8 @@
+{
+  "maxBlur":100,
+  "enableAddiction":true,
+  "logLevel":"INFO",
+  "enableSkoomaPipe":true,
+  "maxColor":70,
+  "enableHallucinations":true
+}

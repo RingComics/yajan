@@ -19,6 +19,6 @@
   "npcSide":false,
   "autoHide":true,
   "messages":true,
-  "hideVanillaSneak":true,
+  "hideVanillaSneak":false,
   "crosshairTexture":"vanilla"
 }

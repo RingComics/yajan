@@ -12,65 +12,65 @@
     "t_ingmine_amethyst_01":true,
     "t_ingmine_amethystdae_01":true,
     "t_ingmine_opal_01":true,
-    "t_ingmine_pearlblackdae_01":true,
+    "tr_m1_ingred_ceph_shell_uni":true,
     "t_ingmine_spineldae_01":true,
     "ingred_dae_cursed_pearl_01":true,
-    "ab_ingmine_sapphire_01":true,
+    "ingred_scrap_metal_01":true,
     "ab_ingmine_bluediamond":true,
     "t_ingmine_pearldetomb_01":true,
     "t_ingmine_rockcrystaldae_01":true,
     "ingred_diamond_01":true,
-    "ingred_dae_cursed_diamond_01":true,
+    "t_ingmine_pearlblackdae_01":true,
     "t_ingmine_bloodstonedae_01":true,
-    "t_ingmine_sapphiredae_01":true,
+    "t_ingmine_tektitedae_01":true,
     "tr_m3_q_oe_mg_dae_sapphire":true,
     "ab_ingmine_peridot_01":true,
-    "t_ingmine_aquamarinedae_01":true,
+    "t_ingmine_topazdae_01":true,
     "ingred_emerald_pinetear":true,
     "ab_ingmine_obsidian_01":true,
     "ingred_pearl_01":true,
     "tr_m3_q_a9_rewardemerald":true,
-    "t_ingmine_rockcrystal_01":true,
-    "ingred_dae_cursed_ruby_01":true,
-    "t_ingmine_tektite_01":true,
-    "t_ingmine_emeralddetomb_01":true,
-    "ingred_dae_cursed_emerald_01":true,
-    "t_ingmine_orecopper_01":true,
     "tr_m4_aa_tomb_2_emerald":true,
+    "t_ingmine_sapphiredae_01":true,
+    "ab_ingmine_reddiamond":true,
+    "t_ingmine_emeralddetomb_01":true,
+    "ingred_raw_glass_tinos":true,
+    "t_ingmine_oresilver_01":true,
+    "t_ingmine_tektite_01":true,
     "t_ingmine_jet_01":true,
     "tr_i3-280_ingred_cursed_diamond":true,
     "_mqe_6th_corprusmeat_03":true,
     "ab_ingmine_tourmaline_01":true,
     "t_ingmine_diamonddetomb_01":true,
     "t_ingmine_amber_01":true,
-    "tr_m7_nva8_ingcrea_goatpelt_01":true,
-    "t_ingmine_oresilver_01":true,
-    "t_ingmine_topazdae_01":true,
+    "t_ingmine_spinel_01":true,
+    "t_ingmine_orecopper_01":true,
+    "t_ingmine_aquamarinedae_01":true,
     "t_ingmine_agate_04":true,
-    "t_ingmine_aquamarine_01":true,
+    "ab_ingmine_amber_01":true,
     "ingred_raw_glass_01":true,
     "_mqe_6th_corprusmeat_02":true,
     "ab_ingmine_diopside_01":true,
     "_mqe_6th_corprusmeat_01":true,
-    "t_ingmine_sapphire_01":true,
+    "ingred_dae_cursed_ruby_01":true,
     "t_ingmine_pearlblack_01":true,
-    "t_ingmine_topaz_01":true,
+    "ingred_dae_cursed_diamond_01":true,
     "t_ingmine_oreiron_01":true,
     "ab_ingmine_firejade_01":true,
     "tr_m7_nva8_ingred_guar_hide_01":true,
-    "t_ingmine_tektitedae_01":true,
+    "t_ingmine_coal_01":true,
     "t_ingmine_bloodstone_01":true,
-    "tr_m1_ingred_ceph_shell_uni":true,
-    "tr_m7_nva8_ingred_wolf_pelt":true,
+    "t_ingmine_aquamarine_01":true,
+    "tr_m7_nva8_ingcrea_goatpelt_01":true,
     "ab_ingmine_blackpearl_01":true,
-    "t_ingmine_spinel_01":true,
+    "tr_m7_nva8_ingred_wolf_pelt":true,
     "ab_ingmine_blacktourmaline_01":true,
     "ingred_adamantium_ore_01":true,
     "t_ingmine_garnet_01":true,
     "tr_m7_nva8_ingred_bear_pelt":true,
     "t_ingmine_jetdae_01":true,
-    "tr_m7_nva8_snowbear_pelt":true,
     "ab_ingmine_goldpearl_01":true,
+    "tr_m7_nva8_snowbear_pelt":true,
     "t_ingmine_oregolddae_01":true,
     "ingred_ruby_01":true,
     "t_ingmine_lodestone_01":true,
@@ -91,7 +91,7 @@
     "t_ingmine_turquoise_01":true,
     "t_ingmine_malouchite_01":true,
     "t_ingmine_spellstone_01":true,
-    "ingred_scrap_metal_01":true,
+    "ingred_dae_cursed_emerald_01":true,
     "ingred_raw_ebony_01":true,
     "t_ingmine_alexandritedae_01":true,
     "t_ingmine_opaldae_01":true,
@@ -99,14 +99,14 @@
     "tr_m3_nelyn_cursed_pearl":true,
     "t_ingmine_agate_03":true,
     "t_ingmine_agate_02":true,
-    "t_ingmine_coal_01":true,
+    "t_ingmine_rockcrystal_01":true,
     "ab_ingmine_garnet_01":true,
     "tr_m2_q_9_eyestar_uni":true,
-    "ab_ingmine_reddiamond":true,
+    "t_ingmine_topaz_01":true,
     "tr_m1_q_ingred_topaz":true,
-    "ingred_raw_glass_tinos":true,
+    "t_ingmine_sapphire_01":true,
     "t_ingmine_moonstonedae_01":true,
-    "ab_ingmine_amber_01":true,
+    "ab_ingmine_sapphire_01":true,
     "t_ingmine_oregold_01":true
   },
   "sameIngred":{
@@ -129,12 +129,6 @@
       "T_IngFood_BreadColovianMw_01":true,
       "T_IngFood_BreadColovianMw_02":true
     },
-    "T_IngFood_BreadDeshaan_02":{
-      "T_IngFood_BreadDeshaan_05":true,
-      "T_IngFood_BreadDeshaan_04":true,
-      "T_IngFood_BreadDeshaan_01":true,
-      "T_IngFood_BreadDeshaan_03":true
-    },
     "T_IngFood_CheeseWheelNord_02":{
       "T_IngFood_CheeseWheelNord_01":true
     },
@@ -153,14 +147,13 @@
     "TR_m3_OE_q_HorseMeat":{
       "T_IngFood_MeatHorse_01":true
     },
-    "T_IngCrea_BeetleShell_04":{
-      "plx_ingred_shell_beetle4":true
-    },
-    "T_IngFood_BreadDeshaan_04":{
-      "T_IngFood_BreadDeshaan_05":true,
-      "T_IngFood_BreadDeshaan_02":true,
-      "T_IngFood_BreadDeshaan_03":true,
-      "T_IngFood_BreadDeshaan_01":true
+    "TR_m3_q_A9_rewardemerald":{
+      "ingred_emerald_01":true,
+      "TR_m4_AA_Tomb_2_Emerald":true,
+      "luce_ingred_emerald_01_dam":true,
+      "T_IngMine_EmeraldDeTomb_01":true,
+      "ingred_emerald_pinetear":true,
+      "ingred_Dae_cursed_emerald_01":true
     },
     "TR_m7_NVA8_IngCrea_GoatPelt_01":{
       "T_IngCrea_GoatPelt_01":true
@@ -171,15 +164,8 @@
       "T_IngFood_BreadDeshaan_04":true,
       "T_IngFood_BreadDeshaan_01":true
     },
-    "T_IngMine_RubyDeTomb_01":{
-      "ingred_Dae_cursed_ruby_01":true,
-      "ingred_ruby_01":true
-    },
-    "T_IngFood_MeatNixhoundRoast_01":{
-      "T_IngFood_MeatRat_01":true,
-      "T_IngFood_MeatBoarRoast_02":true,
-      "T_IngFood_MeatChickenRoast_01":true,
-      "T_IngFood_MeatDurzog_01":true
+    "TR_m2_q_29_4_silk":{
+      "T_IngCrea_DridreaSilk_01":true
     },
     "T_IngMine_EmeraldDeTomb_01":{
       "ingred_emerald_01":true,
@@ -192,18 +178,371 @@
     "T_IngMine_Jet_01":{
       "T_IngMine_JetDae_01":true
     },
-    "ingred_crab_meat_01-fried":{
-      "ingred_crab_meat_01":true,
-      "plx_crab_meat_D":true
-    },
     "ingred_belladonna_01":{
       "ingred_belladonna_02":true
     },
-    "T_IngMine_DiamondDeTomb_01":{
-      "order_sentrydiamond":true,
-      "ingred_diamond_01":true,
-      "TR_i3-280_ingred_cursed_diamond":true,
-      "ingred_Dae_cursed_diamond_01":true
+    "T_IngMine_Rockcrystal_01":{
+      "T_IngMine_RockCrystalDae_01":true
+    },
+    "AB_IngFlor_Bloodgrass_01":{
+      "T_IngFlor_Bloodgrass_01":true
+    },
+    "T_IngMine_OpalDae_01":{
+      "T_IngMine_Opal_01":true
+    },
+    "ingred_blood_innocent_unique":{
+      "ingred_red_lichen_01":true
+    },
+    "pf_IngFood_FishStrid_01":{
+      "T_IngFood_FishStrid_01":true
+    },
+    "T_IngMine_AmethystDae_01":{
+      "T_IngMine_Amethyst_01":true
+    },
+    "T_IngFood_BreadColovian_01":{
+      "Sky_qRe_DSW04_Bread":true
+    },
+    "ingred_udyrfrykte_heart":{
+      "ingred_cursed_daedras_heart_01":true,
+      "ingred_daedras_heart_01":true,
+      "ingred_innocent_heart":true,
+      "ingred_wolf_heart":true
+    },
+    "T_IngMine_Opal_01":{
+      "T_IngMine_OpalDae_01":true
+    },
+    "T_IngMine_Tektite_01":{
+      "T_IngMine_TektiteDae_01":true
+    },
+    "aaa_dustcap_ing_01":{
+      "AB_IngFlor_Dustcap":true
+    },
+    "T_IngFood_FishStrid_01":{
+      "pf_IngFood_FishStrid_01":true
+    },
+    "T_IngFood_BreadColovianMw_01":{
+      "T_IngFood_BreadColovianMw_02":true,
+      "T_IngFood_MeatRatRoast_01":true
+    },
+    "plx_kagouti_meat":{
+      "ingred_hound_meat_01":true,
+      "max_lgnpc_adanja_ingr_01":true,
+      "plx_kagouti_meat_B":true,
+      "plx_hound_meat_D":true
+    },
+    "FA1_ingred_marrow01":{
+      "FA1_ingred_marrow":true
+    },
+    "ingred_rat_meat_01":{
+      "plx_rat_meat_D":true,
+      "TR_m1_Q59_PR_disease_meat":true
+    },
+    "T_IngFlor_Columbine_01":{
+      "T_IngFlor_Aquilegia_01":true
+    },
+    "ingred_raw_glass_tinos":{
+      "ingred_raw_glass_01":true
+    },
+    "T_IngCrea_BearpeltCyr_01":{
+      "T_IngCrea_WolfPeltCyr_01":true,
+      "ingred_bear_pelt":true,
+      "TR_m7_NVA8_ingred_bear_pelt":true
+    },
+    "T_IngMine_Topaz_01":{
+      "T_IngMine_TopazDae_01":true
+    },
+    "T_IngFlor_Bloodgrass_01":{
+      "AB_IngFlor_Bloodgrass_01":true
+    },
+    "ingred_eyeball_unique":{
+      "ingred_eyeball":true
+    },
+    "TR_m7_NVA8_ingred_wolf_pelt":{
+      "ingred_wolf_pelt":true,
+      "T_IngCrea_WolfPeltCyr_01":true
+    },
+    "T_IngFood_FishCod_01":{
+      "pf_IngFood_FishCod_01":true
+    },
+    "T_IngFood_FishChrysophant_01":{
+      "pf_IngFood_FishChrysophant_01":true
+    },
+    "ingred_bittergreen_petals_01":{
+      "TR_m2_q_9_BGPetals":true
+    },
+    "T_IngMine_OreGoldDae_01":{
+      "T_IngMine_OreGold_01":true
+    },
+    "T_IngFood_BreadDeshaan_05":{
+      "T_IngFood_BreadDeshaan_03":true,
+      "T_IngFood_BreadDeshaan_02":true,
+      "T_IngFood_BreadDeshaan_04":true,
+      "T_IngFood_BreadDeshaan_01":true
+    },
+    "T_IngMine_AquamarineDae_01":{
+      "T_IngMine_Aquamarine_01":true
+    },
+    "ingred_innocent_heart":{
+      "ingred_udyrfrykte_heart":true,
+      "ingred_daedras_heart_01":true,
+      "ingred_cursed_daedras_heart_01":true,
+      "ingred_wolf_heart":true
+    },
+    "_MQE_6th_corprusmeat_02":{
+      "_MQE_6th_corprusmeat_01":true,
+      "ingred_6th_corprusmeat_01":true,
+      "_MQE_6th_corprusmeat_03":true
+    },
+    "T_IngCrea_MeatDark_01":{
+      "TR_Ingred_Darkmeat":true
+    },
+    "plx_ingred_shell_beetle3":{
+      "T_IngCrea_BeetleShell_03":true
+    },
+    "T_IngMine_JetDae_01":{
+      "T_IngMine_Jet_01":true
+    },
+    "pf_IngFood_FishBrowntrout_01":{
+      "T_IngFood_FishBrowntrout_01":true
+    },
+    "T_IngMine_PearlBlack_01":{
+      "T_IngMine_PearlBlackDae_01":true
+    },
+    "ingred_void_salts_01":{
+      "Sky_qRe_DSMG04_Salts":true
+    },
+    "plx_ingred_Shell_Para":{
+      "T_IngCrea_ShellParastylus_01":true
+    },
+    "TR_m4_HH_SqScribPie":{
+      "TR_m4_HH_ScribPie":true
+    },
+    "T_IngMine_TurquoiseDae_01":{
+      "T_IngMine_Turquoise_01":true
+    },
+    "TR_m1_Q59_PR_disease_meat":{
+      "ingred_rat_meat_01":true,
+      "plx_rat_meat_D":true
+    },
+    "TR_i3-591_ingred_RaathimAsh":{
+      "ingred_gravedust_01":true
+    },
+    "pf_IngFood_FishSalmon_01":{
+      "T_IngFood_FishSalmon_01":true
+    },
+    "T_IngMine_AmberDae_01":{
+      "T_IngMine_Amber_01":true
+    },
+    "TR_i4-507_ingred_hla_pearl":{
+      "ingred_pearl_01":true,
+      "ingred_Dae_cursed_pearl_01":true,
+      "TR_m3_nelyn_cursed_pearl":true,
+      "T_IngMine_PearlDeTomb_01":true
+    },
+    "ingred_eyeball":{
+      "ingred_eyeball_unique":true
+    },
+    "T_IngFood_FishBrowntrout_01":{
+      "pf_IngFood_FishBrowntrout_01":true
+    },
+    "crcl_ingred_scribsoap":{
+      "ingred_soap_01":true
+    },
+    "TR_m3_nelyn_cursed_pearl":{
+      "ingred_pearl_01":true,
+      "ingred_Dae_cursed_pearl_01":true,
+      "T_IngMine_PearlDeTomb_01":true,
+      "TR_i4-507_ingred_hla_pearl":true
+    },
+    "T_IngMine_SpinelDae_01":{
+      "T_IngMine_Spinel_01":true
+    },
+    "TR_m1_Q_Topaz_Stationary":{
+      "TR_m1_Q_Ingred_Topaz":true
+    },
+    "TR_i3-280_ingred_cursed_diamond":{
+      "T_IngMine_DiamondDeTomb_01":true,
+      "ingred_Dae_cursed_diamond_01":true,
+      "ingred_diamond_01":true
+    },
+    "TR_m3_OE_TG_Vomit":{
+      "T_IngCrea_SkyrenderVenom_01":true
+    },
+    "T_IngCrea_SkyrenderVenom_01":{
+      "TR_m3_OE_TG_Vomit":true
+    },
+    "TR_m3_i3_413_white clay":{
+      "ingred_bonemeal_01":true,
+      "TR_m2_q_38_purebonemeal":true,
+      "TR_m2_q_38_ashbonemeal":true
+    },
+    "T_IngFlor_Hamumroot_01":{
+      "T_IngFlor_Hamumroot_02":true,
+      "T_IngFlor_Hamumroot_03":true
+    },
+    "plx_crab_meat_D":{
+      "ingred_crab_meat_01":true,
+      "ingred_crab_meat_01-fried":true
+    },
+    "T_IngCrea_EyestarDae_01":{
+      "T_IngCrea_Eyestar_01":true,
+      "TR_m2_q_9_Eyestar_uni":true
+    },
+    "dk_ingred_player_meat_01":{
+      "max_lgnpc_tm_flesh_01":true,
+      "ingred_human_meat_01":true
+    },
+    "T_IngCrea_Ambergris":{
+      "T_IngCrea_Ambergris_float":true
+    },
+    "T_IngCrea_WolfPeltCyr_01":{
+      "ingred_wolf_pelt":true,
+      "T_IngCrea_BearpeltCyr_01":true,
+      "TR_m7_NVA8_ingred_wolf_pelt":true
+    },
+    "ingred_gold_kanet_01":{
+      "ingred_gold_kanet_unique":true
+    },
+    "T_IngCrea_BeetleShell_03":{
+      "plx_ingred_shell_beetle3":true
+    },
+    "T_IngFood_EggMolecrab_01":{
+      "TR_Ingred_Egg_Molecrab":true
+    },
+    "ingred_wolf_pelt":{
+      "T_IngCrea_WolfPeltCyr_01":true,
+      "TR_m7_NVA8_ingred_wolf_pelt":true
+    },
+    "TR_m3_humanheart_i3-453-aun":{
+      "TR_m4_CoG_human_heart":true
+    },
+    "Sky_xRe_DH_OnionFloat":{
+      "T_IngFood_Onion_01":true
+    },
+    "ingred_bread_01_UNI2":{
+      "ingred_bread_01":true,
+      "ingred_bread_01_UNI3":true
+    },
+    "T_IngFood_MeatChickenRoast_01":{
+      "T_IngFood_MeatRat_01":true,
+      "T_IngFood_MeatBoarRoast_02":true,
+      "T_IngFood_MeatNixhoundRoast_01":true,
+      "T_IngFood_MeatDurzog_01":true
+    },
+    "TR_m1_Q_Ingred_NobleSedge":{
+      "Ingred_noble_sedge_01":true,
+      "TR_m1_Q_NobleSedge_Stationary":true
+    },
+    "Sky_qRe_DSW04_Bread":{
+      "T_IngFood_BreadColovian_01":true
+    },
+    "T_IngCrea_DridreaSilk_01":{
+      "TR_m2_q_29_4_silk":true
+    },
+    "T_IngFlor_Hamumroot_03":{
+      "T_IngFlor_Hamumroot_01":true,
+      "T_IngFlor_Hamumroot_02":true
+    },
+    "T_IngFlor_BlackrosePetal_01":{
+      "TR_m1_Q_Ingred_BlackRose":true,
+      "T_IngFlor_BlackrosePetalDae_01":true,
+      "TR_m1_Q_BlackRose_Stationary":true
+    },
+    "T_IngMine_AlexandriteDae_01":{
+      "T_IngMine_Alexandrite_01":true
+    },
+    "T_IngCrea_SaberCatTooth_01":{
+      "TR_m3_OE_SvarrTooth":true
+    },
+    "ingred_bonemeal_01":{
+      "TR_m2_q_38_purebonemeal":true,
+      "TR_m2_q_38_ashbonemeal":true,
+      "TR_m3_i3_413_white clay":true
+    },
+    "ingred_belladonna_02":{
+      "ingred_belladonna_01":true
+    },
+    "AB_IngFlor_Dustcap":{
+      "aaa_dustcap_ing_01":true
+    },
+    "T_IngCrea_BeetleShell_01":{
+      "plx_ingred_shell_beetle1":true
+    },
+    "ingred_ectoplasm_01":{
+      "TR_m2_q_38_ectoplasm":true
+    },
+    "ingred_guar_hide_girith":{
+      "RP_ingred_guar_hide_01":true,
+      "ingred_guar_hide_01":true,
+      "ingred_guar_hide_marsus":true,
+      "TR_m7_NVA8_ingred_guar_hide_01":true
+    },
+    "ingred_guar_hide_marsus":{
+      "RP_ingred_guar_hide_01":true,
+      "ingred_guar_hide_girith":true,
+      "ingred_guar_hide_01":true,
+      "TR_m7_NVA8_ingred_guar_hide_01":true
+    },
+    "TR_m1_Q_Ingred_BlackRose":{
+      "T_IngFlor_BlackrosePetal_01":true,
+      "T_IngFlor_BlackrosePetalDae_01":true,
+      "TR_m1_Q_BlackRose_Stationary":true
+    },
+    "T_IngFood_MeatDurzog_01":{
+      "T_IngFood_MeatRat_01":true,
+      "T_IngFood_MeatBoarRoast_02":true,
+      "T_IngFood_MeatChickenRoast_01":true,
+      "T_IngFood_MeatNixhoundRoast_01":true
+    },
+    "TR_Ingred_Egg_Molecrab":{
+      "T_IngFood_EggMolecrab_01":true
+    },
+    "AB_IngFlor_Harrada_01":{
+      "T_IngFlor_Harrada_01":true
+    },
+    "T_IngFood_CheeseWheelNord_01":{
+      "T_IngFood_CheeseWheelNord_02":true
+    },
+    "T_IngFood_BreadDeshaan_02":{
+      "T_IngFood_BreadDeshaan_05":true,
+      "T_IngFood_BreadDeshaan_04":true,
+      "T_IngFood_BreadDeshaan_01":true,
+      "T_IngFood_BreadDeshaan_03":true
+    },
+    "ingred_daedras_heart_01":{
+      "ingred_udyrfrykte_heart":true,
+      "ingred_cursed_daedras_heart_01":true,
+      "ingred_innocent_heart":true,
+      "ingred_wolf_heart":true
+    },
+    "T_IngCrea_BeetleShell_04":{
+      "plx_ingred_shell_beetle4":true
+    },
+    "T_IngFood_BreadDeshaan_04":{
+      "T_IngFood_BreadDeshaan_05":true,
+      "T_IngFood_BreadDeshaan_02":true,
+      "T_IngFood_BreadDeshaan_03":true,
+      "T_IngFood_BreadDeshaan_01":true
+    },
+    "T_IngFood_MeatAlit_01":{
+      "TR_Ingred_Meat_Alit":true
+    },
+    "pf_IngFood_FishCod_01":{
+      "T_IngFood_FishCod_01":true
+    },
+    "T_IngMine_RubyDeTomb_01":{
+      "ingred_Dae_cursed_ruby_01":true,
+      "ingred_ruby_01":true
+    },
+    "T_IngFood_MeatNixhoundRoast_01":{
+      "T_IngFood_MeatRat_01":true,
+      "T_IngFood_MeatBoarRoast_02":true,
+      "T_IngFood_MeatChickenRoast_01":true,
+      "T_IngFood_MeatDurzog_01":true
+    },
+    "ingred_crab_meat_01-fried":{
+      "ingred_crab_meat_01":true,
+      "plx_crab_meat_D":true
     },
     "T_IngFlor_WtLillyYellow_01":{
       "T_IngFlor_WtLillyWhite_01":true
@@ -221,10 +560,6 @@
       "max_lgnpc_adanja_ingr_01":true,
       "plx_kagouti_meat_B":true
     },
-    "ingred_rat_meat_01":{
-      "plx_rat_meat_D":true,
-      "TR_m1_Q59_PR_disease_meat":true
-    },
     "T_IngFood_MeatBoarRoast_02":{
       "T_IngFood_MeatRat_01":true,
       "T_IngFood_MeatNixhoundRoast_01":true,
@@ -235,31 +570,20 @@
       "ingred_rat_meat_01":true,
       "TR_m1_Q59_PR_disease_meat":true
     },
-    "T_IngMine_OpalDae_01":{
-      "T_IngMine_Opal_01":true
+    "ingred_diamond_01":{
+      "order_sentrydiamond":true,
+      "T_IngMine_DiamondDeTomb_01":true,
+      "TR_i3-280_ingred_cursed_diamond":true,
+      "ingred_Dae_cursed_diamond_01":true
     },
     "ingred_scrib_jelly_01":{
       "ingred_scrib_jelly_02":true
-    },
-    "TR_m4_AA_Tomb_2_Emerald":{
-      "ingred_emerald_01":true,
-      "TR_m3_q_A9_rewardemerald":true,
-      "luce_ingred_emerald_01_dam":true,
-      "T_IngMine_EmeraldDeTomb_01":true,
-      "ingred_emerald_pinetear":true,
-      "ingred_Dae_cursed_emerald_01":true
     },
     "T_IngCrea_FlyMusk_01":{
       "TR_m1_q51_ingred_BOmusk_UNI":true
     },
     "T_IngFood_MeatHorse_01":{
       "TR_m3_OE_q_HorseMeat":true
-    },
-    "ingred_blood_innocent_unique":{
-      "ingred_red_lichen_01":true
-    },
-    "TR_Ingred_Bluefoot":{
-      "T_IngFlor_Bluefoot_01":true
     },
     "ingred_emerald_pinetear":{
       "ingred_emerald_01":true,
@@ -268,9 +592,6 @@
       "luce_ingred_emerald_01_dam":true,
       "T_IngMine_EmeraldDeTomb_01":true,
       "ingred_Dae_cursed_emerald_01":true
-    },
-    "TR_m4_HH_ScribPie":{
-      "TR_m4_HH_SqScribPie":true
     },
     "ingred_pearl_01":{
       "TR_i4-507_ingred_hla_pearl":true,
@@ -282,26 +603,14 @@
     "TR_m3_q_kwamasmuggle":{
       "food_kwama_egg_02":true
     },
-    "T_IngFood_EggMolecrab_01":{
-      "TR_Ingred_Egg_Molecrab":true
-    },
     "T_IngFood_BreadFlat_01":{
       "T_IngFood_BreadFlat_03":true,
       "T_IngFood_BreadFlat_02":true
-    },
-    "T_IngMine_AmethystDae_01":{
-      "T_IngMine_Amethyst_01":true
     },
     "TR_m2_q_38_purebonemeal":{
       "ingred_bonemeal_01":true,
       "TR_m2_q_38_ashbonemeal":true,
       "TR_m3_i3_413_white clay":true
-    },
-    "T_IngFood_BreadColovian_01":{
-      "Sky_qRe_DSW04_Bread":true
-    },
-    "TR_Ingred_Scrib_Pie":{
-      "T_IngFood_ScribPie_01":true
     },
     "ingred_snowbear_pelt_unique":{
       "TR_m7_NVA8_snowbear_pelt":true
@@ -312,12 +621,6 @@
       "plx_kagouti_meat_B":true,
       "plx_hound_meat_D":true
     },
-    "T_IngMine_Opal_01":{
-      "T_IngMine_OpalDae_01":true
-    },
-    "T_IngFood_ScribPie_01":{
-      "TR_Ingred_Scrib_Pie":true
-    },
     "T_IngMine_PearlDeTomb_01":{
       "ingred_pearl_01":true,
       "ingred_Dae_cursed_pearl_01":true,
@@ -325,107 +628,34 @@
       "order_ingred_hugepearl_01":true,
       "TR_i4-507_ingred_hla_pearl":true
     },
-    "aaa_dustcap_ing_01":{
-      "AB_IngFlor_Dustcap":true
-    },
-    "T_IngFlor_Bluefoot_01":{
-      "TR_Ingred_Bluefoot":true
-    },
-    "T_IngCrea_MeatDark_01":{
-      "TR_Ingred_Darkmeat":true
-    },
-    "T_IngFood_BreadColovianMw_01":{
-      "T_IngFood_BreadColovianMw_02":true,
-      "T_IngFood_MeatRatRoast_01":true
-    },
-    "plx_kagouti_meat":{
-      "ingred_hound_meat_01":true,
-      "max_lgnpc_adanja_ingr_01":true,
-      "plx_kagouti_meat_B":true,
-      "plx_hound_meat_D":true
-    },
-    "TR_Ingred_Darkmeat":{
-      "T_IngCrea_MeatDark_01":true
-    },
-    "FA1_ingred_marrow01":{
-      "FA1_ingred_marrow":true
+    "plx_ingred_shell_beetle2":{
+      "T_IngCrea_BeetleShell_02":true
     },
     "T_IngMine_Turquoise_01":{
       "T_IngMine_TurquoiseDae_01":true
-    },
-    "T_IngFood_MeatAlit_01":{
-      "TR_Ingred_Meat_Alit":true
     },
     "T_IngFood_BreadColovianMw_02":{
       "T_IngFood_BreadColovianMw_01":true,
       "T_IngFood_MeatRatRoast_01":true
     },
-    "crcl_ingred_scribsoap":{
-      "ingred_soap_01":true
-    },
     "T_IngFood_FishSlaughterDried_03":{
       "T_IngFood_FishSlaughterDried_01":true,
       "T_IngFood_FishSlaughterDried_02":true
     },
-    "T_IngFlor_Columbine_01":{
-      "T_IngFlor_Aquilegia_01":true
-    },
-    "T_IngMine_Rockcrystal_01":{
-      "T_IngMine_RockCrystalDae_01":true
-    },
     "T_IngMine_Amber_01":{
       "T_IngMine_AmberDae_01":true
-    },
-    "T_IngMine_TurquoiseDae_01":{
-      "T_IngMine_Turquoise_01":true
-    },
-    "TR_m4_CoG_human_heart":{
-      "TR_m3_humanheart_i3-453-aun":true
-    },
-    "T_IngCrea_BearpeltCyr_01":{
-      "T_IngCrea_WolfPeltCyr_01":true,
-      "ingred_bear_pelt":true,
-      "TR_m7_NVA8_ingred_bear_pelt":true
-    },
-    "plx_ingred_shell_beetle2":{
-      "T_IngCrea_BeetleShell_02":true
     },
     "TR_m3_TT_JalorPowder":{
       "TR_m3_TT_JalorPowder02":true
     },
-    "T_IngMine_Topaz_01":{
-      "T_IngMine_TopazDae_01":true
-    },
-    "T_IngFlor_Bloodgrass_01":{
-      "AB_IngFlor_Bloodgrass_01":true
-    },
-    "ingred_eyeball_unique":{
-      "ingred_eyeball":true
-    },
-    "ingred_6th_corprusmeat_07":{
-      "FA_Corprus":true
+    "T_IngFood_Cookie_02":{
+      "T_IngFood_Cookie_01":true
     },
     "T_IngMine_Amethyst_01":{
       "T_IngMine_AmethystDae_01":true
     },
-    "ingred_bittergreen_petals_01":{
-      "TR_m2_q_9_BGPetals":true
-    },
-    "TR_m7_NVA8_ingred_wolf_pelt":{
-      "ingred_wolf_pelt":true,
-      "T_IngCrea_WolfPeltCyr_01":true
-    },
-    "ingred_raw_glass_tinos":{
-      "ingred_raw_glass_01":true
-    },
-    "T_IngFood_MeatDurzog_01":{
-      "T_IngFood_MeatRat_01":true,
-      "T_IngFood_MeatBoarRoast_02":true,
-      "T_IngFood_MeatChickenRoast_01":true,
-      "T_IngFood_MeatNixhoundRoast_01":true
-    },
-    "plx_ingred_shell_beetle3":{
-      "T_IngCrea_BeetleShell_03":true
+    "TR_Ingred_Darkmeat":{
+      "T_IngCrea_MeatDark_01":true
     },
     "luce_ingred_emerald_01_dam":{
       "ingred_emerald_01":true,
@@ -441,38 +671,12 @@
       "ingred_guar_hide_marsus":true,
       "TR_m7_NVA8_ingred_guar_hide_01":true
     },
-    "T_IngFood_Cookie_01":{
-      "T_IngFood_Cookie_02":true
+    "Sky_iRe_kw70_russulafloat":{
+      "Sky_xRe_DH_RRussulaFloat":true
     },
-    "T_IngMine_OreGoldDae_01":{
-      "T_IngMine_OreGold_01":true
-    },
-    "T_IngFood_BreadDeshaan_05":{
-      "T_IngFood_BreadDeshaan_03":true,
-      "T_IngFood_BreadDeshaan_02":true,
-      "T_IngFood_BreadDeshaan_04":true,
-      "T_IngFood_BreadDeshaan_01":true
-    },
-    "order_sentrydiamond":{
-      "T_IngMine_DiamondDeTomb_01":true,
-      "ingred_Dae_cursed_diamond_01":true,
-      "ingred_diamond_01":true
-    },
-    "T_IngMine_AquamarineDae_01":{
-      "T_IngMine_Aquamarine_01":true
-    },
-    "ingred_innocent_heart":{
-      "ingred_udyrfrykte_heart":true,
-      "ingred_daedras_heart_01":true,
-      "ingred_cursed_daedras_heart_01":true,
-      "ingred_wolf_heart":true
-    },
-    "ingred_Dae_cursed_raw_ebony_01":{
-      "ingred_raw_ebony_01":true,
-      "TR_m3_q_A5_SmuggledEbony":true
-    },
-    "ingred_ectoplasm_01":{
-      "TR_m2_q_38_ectoplasm":true
+    "T_IngFood_BreadFlat_03":{
+      "T_IngFood_BreadFlat_02":true,
+      "T_IngFood_BreadFlat_01":true
     },
     "ingred_6th_corprusmeat_01":{
       "ingred_6th_corprusmeat_02":true,
@@ -485,74 +689,30 @@
       "_MQE_6th_corprusmeat_03":true,
       "ingred_6th_corprusmeat_07":true
     },
-    "_MQE_6th_corprusmeat_02":{
-      "_MQE_6th_corprusmeat_01":true,
-      "ingred_6th_corprusmeat_01":true,
-      "_MQE_6th_corprusmeat_03":true
-    },
-    "Sky_iRe_kw70_russulafloat":{
-      "Sky_xRe_DH_RRussulaFloat":true
+    "ingred_Dae_cursed_raw_ebony_01":{
+      "ingred_raw_ebony_01":true,
+      "TR_m3_q_A5_SmuggledEbony":true
     },
     "_MQE_6th_corprusmeat_01":{
       "_MQE_6th_corprusmeat_03":true,
       "ingred_6th_corprusmeat_01":true,
       "_MQE_6th_corprusmeat_02":true
     },
-    "T_IngMine_Tektite_01":{
-      "T_IngMine_TektiteDae_01":true
+    "ingred_red_lichen_01":{
+      "ingred_blood_innocent_unique":true
     },
-    "T_IngMine_TopazDae_01":{
-      "T_IngMine_Topaz_01":true
-    },
-    "T_IngFood_FishSlaughterDried_02":{
-      "T_IngFood_FishSlaughterDried_03":true,
-      "T_IngFood_FishSlaughterDried_01":true
-    },
-    "ingred_soap_01":{
-      "crcl_ingred_scribsoap":true
-    },
-    "ingred_bear_pelt":{
-      "T_IngCrea_BearpeltCyr_01":true,
-      "TR_m7_NVA8_ingred_bear_pelt":true
-    },
-    "plx_kagouti_meat_B":{
-      "ingred_hound_meat_01":true,
-      "plx_kagouti_meat":true,
-      "max_lgnpc_adanja_ingr_01":true,
-      "plx_hound_meat_D":true
-    },
-    "max_lgnpc_tm_flesh_01":{
-      "dk_ingred_player_meat_01":true,
-      "ingred_human_meat_01":true
-    },
-    "T_IngMine_JetDae_01":{
-      "T_IngMine_Jet_01":true
-    },
-    "T_IngFood_Cookie_02":{
-      "T_IngFood_Cookie_01":true
+    "FA_Corprus":{
+      "ingred_6th_corprusmeat_07":true
     },
     "TR_m3_q_A5_SmuggledEbony":{
       "ingred_raw_ebony_01":true,
       "ingred_Dae_cursed_raw_ebony_01":true
     },
-    "ingred_human_meat_01":{
-      "dk_ingred_player_meat_01":true,
-      "max_lgnpc_tm_flesh_01":true
-    },
     "T_IngMine_Peridot_01":{
       "T_IngMine_PeridotDae_01":true
     },
-    "T_IngFlor_Harrada_01":{
-      "AB_IngFlor_Harrada_01":true
-    },
-    "plx_vissed_meat":{
-      "plx_slarsa_meat":true
-    },
-    "plx_ingred_Shell_Para":{
-      "T_IngCrea_ShellParastylus_01":true
-    },
-    "TR_m2_q_29_4_silk":{
-      "T_IngCrea_DridreaSilk_01":true
+    "T_IngFood_FishPikeperch_01":{
+      "pf_IngFood_FishPikeperch_01":true
     },
     "T_IngFlor_Nightshade_01":{
       "T_IngFlor_NightshadeDae_01":true
@@ -563,35 +723,18 @@
     "T_IngFlor_WtLillyWhite_01":{
       "T_IngFlor_WtLillyYellow_01":true
     },
-    "T_IngFood_BreadFlat_03":{
-      "T_IngFood_BreadFlat_02":true,
-      "T_IngFood_BreadFlat_01":true
+    "ingred_6th_corprusmeat_07":{
+      "FA_Corprus":true
     },
-    "plx_alit_meat":{
-      "plx_alit_meat_B":true,
-      "plx_alit_meat_D":true
-    },
-    "ingred_bread_01":{
-      "ingred_bread_01_UNI3":true,
-      "ingred_bread_01_UNI2":true
-    },
-    "TR_i3-591_ingred_RaathimAsh":{
-      "ingred_gravedust_01":true
+    "T_IngCrea_Ambergris_float":{
+      "T_IngCrea_Ambergris":true
     },
     "T_IngFlor_Aquilegia_01":{
       "T_IngFlor_Columbine_01":true
     },
-    "T_IngCrea_BeetleShell_01":{
-      "plx_ingred_shell_beetle1":true
-    },
-    "ingred_wolf_heart":{
-      "ingred_udyrfrykte_heart":true,
-      "ingred_daedras_heart_01":true,
-      "ingred_cursed_daedras_heart_01":true,
-      "ingred_innocent_heart":true
-    },
-    "plx_ingred_shell_beetle4":{
-      "T_IngCrea_BeetleShell_04":true
+    "max_lgnpc_tm_flesh_01":{
+      "dk_ingred_player_meat_01":true,
+      "ingred_human_meat_01":true
     },
     "T_IngMine_KhajiitEye_01":{
       "T_IngMine_KhajiitEyeDae_01":true
@@ -599,25 +742,8 @@
     "TR_m1_Q_Ingred_Topaz":{
       "TR_m1_Q_Topaz_Stationary":true
     },
-    "T_IngFlor_BlackrosePetalDae_01":{
-      "TR_m1_Q_Ingred_BlackRose":true,
-      "TR_m1_Q_BlackRose_Stationary":true,
-      "T_IngFlor_BlackrosePetal_01":true
-    },
-    "T_IngMine_AmberDae_01":{
-      "T_IngMine_Amber_01":true
-    },
-    "TR_i4-507_ingred_hla_pearl":{
-      "ingred_pearl_01":true,
-      "ingred_Dae_cursed_pearl_01":true,
-      "TR_m3_nelyn_cursed_pearl":true,
-      "T_IngMine_PearlDeTomb_01":true
-    },
-    "AB_IngFlor_Dustcap":{
-      "aaa_dustcap_ing_01":true
-    },
-    "ingred_eyeball":{
-      "ingred_eyeball_unique":true
+    "pf_IngFood_FishChrysophant_01":{
+      "T_IngFood_FishChrysophant_01":true
     },
     "ingred_bread_01_UNI3":{
       "ingred_bread_01":true,
@@ -633,34 +759,11 @@
       "plx_alit_meat_D":true,
       "plx_alit_meat":true
     },
-    "TR_m4_HH_SqScribPie":{
-      "TR_m4_HH_ScribPie":true
-    },
-    "Sky_qRe_KW_MG05_PadPersarine":{
-      "T_IngFlor_Persarine_01":true
-    },
-    "ingred_Dae_cursed_emerald_01":{
-      "ingred_emerald_01":true,
-      "TR_m3_q_A9_rewardemerald":true,
-      "TR_m4_AA_Tomb_2_Emerald":true,
-      "luce_ingred_emerald_01_dam":true,
-      "ingred_emerald_pinetear":true,
-      "T_IngMine_EmeraldDeTomb_01":true
-    },
     "TR_m2_q_38_ectoplasm":{
       "ingred_ectoplasm_01":true
     },
-    "T_IngMine_Alexandrite_01":{
-      "T_IngMine_AlexandriteDae_01":true
-    },
-    "T_IngMine_SpinelDae_01":{
-      "T_IngMine_Spinel_01":true
-    },
     "ingred_gold_kanet_unique":{
       "ingred_gold_kanet_01":true
-    },
-    "TR_m1_Q_Topaz_Stationary":{
-      "TR_m1_Q_Ingred_Topaz":true
     },
     "T_IngCrea_GoatPelt_01":{
       "TR_m7_NVA8_IngCrea_GoatPelt_01":true
@@ -671,35 +774,8 @@
       "TR_i3-280_ingred_cursed_diamond":true,
       "ingred_diamond_01":true
     },
-    "T_IngMine_OreGold_01":{
-      "T_IngMine_OreGoldDae_01":true
-    },
-    "T_IngMine_KhajiitEyeDae_01":{
-      "T_IngMine_KhajiitEye_01":true
-    },
-    "TR_i3-280_ingred_cursed_diamond":{
-      "T_IngMine_DiamondDeTomb_01":true,
-      "ingred_Dae_cursed_diamond_01":true,
-      "ingred_diamond_01":true
-    },
-    "T_IngFood_BreadFlat_02":{
-      "T_IngFood_BreadFlat_03":true,
-      "T_IngFood_BreadFlat_01":true
-    },
-    "TR_m3_OE_TG_Vomit":{
-      "T_IngCrea_SkyrenderVenom_01":true
-    },
-    "plx_crab_meat_D":{
-      "ingred_crab_meat_01":true,
-      "ingred_crab_meat_01-fried":true
-    },
-    "T_IngCrea_WolfPeltCyr_01":{
-      "ingred_wolf_pelt":true,
-      "T_IngCrea_BearpeltCyr_01":true,
-      "TR_m7_NVA8_ingred_wolf_pelt":true
-    },
-    "T_IngCrea_SkyrenderVenom_01":{
-      "TR_m3_OE_TG_Vomit":true
+    "plx_ingred_shell_beetle4":{
+      "T_IngCrea_BeetleShell_04":true
     },
     "TR_m1_Q_NobleSedge_Stationary":{
       "Ingred_noble_sedge_01":true,
@@ -711,104 +787,93 @@
     "T_IngMine_SapphireDae_01":{
       "T_IngMine_Sapphire_01":true
     },
-    "TR_m3_i3_413_white clay":{
-      "TR_m2_q_38_purebonemeal":true,
-      "TR_m2_q_38_ashbonemeal":true,
-      "ingred_bonemeal_01":true
-    },
-    "T_IngFlor_Hamumroot_01":{
-      "T_IngFlor_Hamumroot_02":true,
-      "T_IngFlor_Hamumroot_03":true
+    "T_IngFood_MeatRat_01":{
+      "T_IngFood_MeatNixhoundRoast_01":true,
+      "T_IngFood_MeatBoarRoast_02":true,
+      "T_IngFood_MeatChickenRoast_01":true,
+      "T_IngFood_MeatDurzog_01":true
     },
     "ingred_ruby_01":{
       "T_IngMine_RubyDeTomb_01":true,
       "ingred_Dae_cursed_ruby_01":true
     },
-    "T_IngMine_BloodstoneDae_01":{
-      "T_IngMine_Bloodstone_01":true
-    },
     "Sky_xRe_DH_RRussulaFloat":{
       "Sky_iRe_kw70_russulafloat":true
     },
-    "T_IngCrea_EyestarDae_01":{
-      "T_IngCrea_Eyestar_01":true,
-      "TR_m2_q_9_Eyestar_uni":true
+    "AB_IngCrea_SfMeat_01":{
+      "pf_IngFood_SfMeat_01":true
     },
-    "ingred_red_lichen_01":{
-      "ingred_blood_innocent_unique":true
-    },
-    "dk_ingred_player_meat_01":{
-      "max_lgnpc_tm_flesh_01":true,
-      "ingred_human_meat_01":true
+    "T_IngFood_ScribPie_01":{
+      "TR_Ingred_Scrib_Pie":true
     },
     "ingred_vampire_dust_01":{
       "jo_kr_vampire_dust":true
     },
-    "ingred_belladonna_02":{
-      "ingred_belladonna_01":true
+    "T_IngFood_FishPike_01":{
+      "pf_IngFood_FishPike_01":true
     },
-    "T_IngCrea_Ambergris":{
-      "T_IngCrea_Ambergris_float":true
+    "T_IngFood_FishSpr_01":{
+      "pf_IngFood_FishSpr_01":true
     },
-    "AB_IngFlor_Bloodgrass_01":{
-      "T_IngFlor_Bloodgrass_01":true
+    "ingred_bread_01":{
+      "ingred_bread_01_UNI3":true,
+      "ingred_bread_01_UNI2":true
     },
-    "food_kwama_egg_02":{
-      "TR_m3_q_kwamasmuggle":true
+    "pf_IngFood_SfMeat_01":{
+      "AB_IngCrea_SfMeat_01":true
     },
-    "T_IngMine_PeridotDae_01":{
-      "T_IngMine_Peridot_01":true
+    "pf_IngFood_FishPikeperch_01":{
+      "T_IngFood_FishPikeperch_01":true
     },
     "T_IngCrea_BeetleShell_02":{
       "plx_ingred_shell_beetle2":true
     },
-    "ingred_gold_kanet_01":{
-      "ingred_gold_kanet_unique":true
+    "AB_IngFood_KwamaEggCentCut":{
+      "AB_IngFood_KwamaEggCentWrap":true
     },
-    "T_IngCrea_BeetleShell_03":{
-      "plx_ingred_shell_beetle3":true
+    "pf_IngFood_FishPike_01":{
+      "T_IngFood_FishPike_01":true
     },
-    "FA_Corprus":{
-      "ingred_6th_corprusmeat_07":true
+    "jo_kr_vampire_dust":{
+      "ingred_vampire_dust_01":true
     },
-    "TR_m1_Q_BlackRose_Stationary":{
-      "T_IngFlor_BlackrosePetal_01":true,
-      "T_IngFlor_BlackrosePetalDae_01":true,
-      "TR_m1_Q_Ingred_BlackRose":true
+    "ingred_crab_meat_01":{
+      "ingred_crab_meat_01-fried":true,
+      "plx_crab_meat_D":true
     },
     "TR_m2_q_9_Eyestar_uni":{
       "T_IngCrea_EyestarDae_01":true,
       "T_IngCrea_Eyestar_01":true
     },
-    "Sky_xRe_DH_OnionFloat":{
-      "T_IngFood_Onion_01":true
+    "TR_m7_NVA8_ingred_bear_pelt":{
+      "T_IngCrea_BearpeltCyr_01":true,
+      "ingred_bear_pelt":true
     },
-    "ingred_wolf_pelt":{
-      "T_IngCrea_WolfPeltCyr_01":true,
-      "TR_m7_NVA8_ingred_wolf_pelt":true
+    "TR_m3_OE_SvarrTooth":{
+      "T_IngCrea_SaberCatTooth_01":true
     },
     "FA1_ingred_marrow":{
       "FA1_ingred_marrow01":true
     },
-    "TR_m2_q_38_ashbonemeal":{
-      "ingred_bonemeal_01":true,
-      "TR_m2_q_38_purebonemeal":true,
-      "TR_m3_i3_413_white clay":true
+    "_MQE_6th_corprusmeat_03":{
+      "_MQE_6th_corprusmeat_01":true,
+      "ingred_6th_corprusmeat_01":true,
+      "_MQE_6th_corprusmeat_02":true
     },
-    "T_IngMine_PearlBlackDae_01":{
-      "T_IngMine_PearlBlack_01":true
+    "TR_Ingred_Scrib_Pie":{
+      "T_IngFood_ScribPie_01":true
     },
-    "ingred_guar_hide_01":{
-      "RP_ingred_guar_hide_01":true,
-      "ingred_guar_hide_girith":true,
-      "ingred_guar_hide_marsus":true,
-      "TR_m7_NVA8_ingred_guar_hide_01":true
+    "ingred_human_meat_01":{
+      "dk_ingred_player_meat_01":true,
+      "max_lgnpc_tm_flesh_01":true
     },
-    "TR_m3_humanheart_i3-453-aun":{
-      "TR_m4_CoG_human_heart":true
+    "T_IngFood_FishSalmon_01":{
+      "pf_IngFood_FishSalmon_01":true
     },
-    "TR_m3_TT_JalorPowder02":{
-      "TR_m3_TT_JalorPowder":true
+    "order_sentrydiamond":{
+      "T_IngMine_DiamondDeTomb_01":true,
+      "ingred_Dae_cursed_diamond_01":true,
+      "ingred_diamond_01":true
     },
     "AB_IngFood_KwamaEggSpoilSmall":{
       "AB_IngFood_KwamaEggSpoilLarge":true
@@ -816,12 +881,13 @@
     "Sky_qRe_DSMG04_Salts":{
       "ingred_void_salts_01":true
     },
-    "ingred_bread_01_UNI2":{
-      "ingred_bread_01":true,
-      "ingred_bread_01_UNI3":true
+    "TR_m2_q_38_ashbonemeal":{
+      "ingred_bonemeal_01":true,
+      "TR_m2_q_38_purebonemeal":true,
+      "TR_m3_i3_413_white clay":true
     },
-    "T_IngMine_Bloodstone_01":{
-      "T_IngMine_BloodstoneDae_01":true
+    "TR_m3_TT_JalorPowder02":{
+      "TR_m3_TT_JalorPowder":true
     },
     "order_ingred_hugepearl_01":{
       "ingred_pearl_01":true,
@@ -831,100 +897,94 @@
     "ingred_raw_glass_01":{
       "ingred_raw_glass_tinos":true
     },
-    "AB_IngFood_KwamaEggCentCut":{
-      "AB_IngFood_KwamaEggCentWrap":true
+    "T_IngFood_Cookie_01":{
+      "T_IngFood_Cookie_02":true
     },
-    "T_IngFood_MeatChickenRoast_01":{
-      "T_IngFood_MeatRat_01":true,
-      "T_IngFood_MeatBoarRoast_02":true,
-      "T_IngFood_MeatNixhoundRoast_01":true,
-      "T_IngFood_MeatDurzog_01":true
+    "T_IngMine_Aquamarine_01":{
+      "T_IngMine_AquamarineDae_01":true
     },
-    "TR_m1_Q_Ingred_NobleSedge":{
-      "Ingred_noble_sedge_01":true,
-      "TR_m1_Q_NobleSedge_Stationary":true
+    "TR_m2_q_9_BGPetals":{
+      "ingred_bittergreen_petals_01":true
     },
-    "Sky_qRe_DSW04_Bread":{
-      "T_IngFood_BreadColovian_01":true
+    "ingred_Dae_cursed_emerald_01":{
+      "ingred_emerald_01":true,
+      "TR_m3_q_A9_rewardemerald":true,
+      "TR_m4_AA_Tomb_2_Emerald":true,
+      "luce_ingred_emerald_01_dam":true,
+      "ingred_emerald_pinetear":true,
+      "T_IngMine_EmeraldDeTomb_01":true
     },
-    "AB_IngFood_KwamaEggSpoilLarge":{
-      "AB_IngFood_KwamaEggSpoilSmall":true
+    "T_IngMine_KhajiitEyeDae_01":{
+      "T_IngMine_KhajiitEye_01":true
     },
     "T_IngFlor_Hamumroot_02":{
       "T_IngFlor_Hamumroot_01":true,
       "T_IngFlor_Hamumroot_03":true
     },
-    "ingred_Dae_cursed_ruby_01":{
-      "T_IngMine_RubyDeTomb_01":true,
-      "ingred_ruby_01":true
-    },
-    "T_IngMine_Spinel_01":{
-      "T_IngMine_SpinelDae_01":true
-    },
-    "T_IngMine_Moonstone_01":{
-      "T_IngMine_MoonstoneDae_01":true
-    },
-    "T_IngCrea_DridreaSilk_01":{
-      "TR_m2_q_29_4_silk":true
+    "T_IngMine_PeridotDae_01":{
+      "T_IngMine_Peridot_01":true
     },
     "plx_ingred_shell_beetle1":{
       "T_IngCrea_BeetleShell_01":true
     },
-    "T_IngFlor_Hamumroot_03":{
-      "T_IngFlor_Hamumroot_01":true,
-      "T_IngFlor_Hamumroot_02":true
+    "ingred_soap_01":{
+      "crcl_ingred_scribsoap":true
     },
-    "T_IngFlor_BlackrosePetal_01":{
-      "TR_m1_Q_Ingred_BlackRose":true,
+    "AB_IngFood_KwamaEggSpoilLarge":{
+      "AB_IngFood_KwamaEggSpoilSmall":true
+    },
+    "plx_slarsa_meat":{
+      "plx_vissed_meat":true
+    },
+    "ingred_guar_hide_01":{
+      "RP_ingred_guar_hide_01":true,
+      "ingred_guar_hide_girith":true,
+      "ingred_guar_hide_marsus":true,
+      "TR_m7_NVA8_ingred_guar_hide_01":true
+    },
+    "TR_Ingred_Bluefoot":{
+      "T_IngFlor_Bluefoot_01":true
+    },
+    "pf_IngFood_FishSpr_01":{
+      "T_IngFood_FishSpr_01":true
+    },
+    "T_IngFood_BreadFlat_02":{
+      "T_IngFood_BreadFlat_03":true,
+      "T_IngFood_BreadFlat_01":true
+    },
+    "T_IngMine_PearlBlackDae_01":{
+      "T_IngMine_PearlBlack_01":true
+    },
+    "TR_m1_Q_BlackRose_Stationary":{
+      "T_IngFlor_BlackrosePetal_01":true,
       "T_IngFlor_BlackrosePetalDae_01":true,
-      "TR_m1_Q_BlackRose_Stationary":true
-    },
-    "T_IngMine_AlexandriteDae_01":{
-      "T_IngMine_Alexandrite_01":true
-    },
-    "ingred_diamond_01":{
-      "order_sentrydiamond":true,
-      "T_IngMine_DiamondDeTomb_01":true,
-      "TR_i3-280_ingred_cursed_diamond":true,
-      "ingred_Dae_cursed_diamond_01":true
-    },
-    "ingred_daedras_heart_01":{
-      "ingred_udyrfrykte_heart":true,
-      "ingred_wolf_heart":true,
-      "ingred_cursed_daedras_heart_01":true,
-      "ingred_innocent_heart":true
-    },
-    "T_IngCrea_SaberCatTooth_01":{
-      "TR_m3_OE_SvarrTooth":true
+      "TR_m1_Q_Ingred_BlackRose":true
     },
     "ingred_gravedust_01":{
       "TR_i3-591_ingred_RaathimAsh":true
-    },
-    "T_IngCrea_Eyestar_01":{
-      "T_IngCrea_EyestarDae_01":true,
-      "TR_m2_q_9_Eyestar_uni":true
-    },
-    "T_IngFood_Onion_01":{
-      "Sky_xRe_DH_OnionFloat":true
-    },
-    "ingred_bonemeal_01":{
-      "TR_m2_q_38_purebonemeal":true,
-      "TR_m2_q_38_ashbonemeal":true,
-      "TR_m3_i3_413_white clay":true
-    },
-    "T_IngMine_Sapphire_01":{
-      "T_IngMine_SapphireDae_01":true
-    },
-    "Ingred_noble_sedge_01":{
-      "TR_m1_Q_NobleSedge_Stationary":true,
-      "TR_m1_Q_Ingred_NobleSedge":true
     },
     "T_IngFood_FishSlaughterDried_01":{
       "T_IngFood_FishSlaughterDried_03":true,
       "T_IngFood_FishSlaughterDried_02":true
     },
-    "TR_m7_NVA8_snowbear_pelt":{
-      "ingred_snowbear_pelt_unique":true
+    "T_IngMine_Alexandrite_01":{
+      "T_IngMine_AlexandriteDae_01":true
+    },
+    "T_IngMine_Sapphire_01":{
+      "T_IngMine_SapphireDae_01":true
+    },
+    "T_IngMine_OreGold_01":{
+      "T_IngMine_OreGoldDae_01":true
+    },
+    "T_IngMine_Spinel_01":{
+      "T_IngMine_SpinelDae_01":true
+    },
+    "T_IngMine_BloodstoneDae_01":{
+      "T_IngMine_Bloodstone_01":true
+    },
+    "ingred_Dae_cursed_ruby_01":{
+      "T_IngMine_RubyDeTomb_01":true,
+      "ingred_ruby_01":true
     },
     "ingred_cursed_daedras_heart_01":{
       "ingred_udyrfrykte_heart":true,
@@ -932,48 +992,44 @@
       "ingred_innocent_heart":true,
       "ingred_wolf_heart":true
     },
-    "T_IngFood_MeatRat_01":{
-      "T_IngFood_MeatNixhoundRoast_01":true,
-      "T_IngFood_MeatBoarRoast_02":true,
-      "T_IngFood_MeatChickenRoast_01":true,
-      "T_IngFood_MeatDurzog_01":true
+    "ingred_bear_pelt":{
+      "T_IngCrea_BearpeltCyr_01":true,
+      "TR_m7_NVA8_ingred_bear_pelt":true
     },
-    "TR_m1_Q59_PR_disease_meat":{
-      "ingred_rat_meat_01":true,
-      "plx_rat_meat_D":true
+    "T_IngMine_Bloodstone_01":{
+      "T_IngMine_BloodstoneDae_01":true
     },
     "TR_Ingred_Meat_Alit":{
       "T_IngFood_MeatAlit_01":true
     },
-    "ingred_void_salts_01":{
-      "Sky_qRe_DSMG04_Salts":true
+    "food_kwama_egg_02":{
+      "TR_m3_q_kwamasmuggle":true
     },
     "T_IngMine_Garnet_01":{
       "T_IngMine_GarnetDae_01":true
     },
-    "TR_m3_nelyn_cursed_pearl":{
-      "ingred_pearl_01":true,
-      "ingred_Dae_cursed_pearl_01":true,
-      "T_IngMine_PearlDeTomb_01":true,
-      "TR_i4-507_ingred_hla_pearl":true
+    "T_IngCrea_Eyestar_01":{
+      "T_IngCrea_EyestarDae_01":true,
+      "TR_m2_q_9_Eyestar_uni":true
     },
     "T_IngMine_TektiteDae_01":{
       "T_IngMine_Tektite_01":true
     },
-    "T_IngCrea_Ambergris_float":{
-      "T_IngCrea_Ambergris":true
+    "Ingred_noble_sedge_01":{
+      "TR_m1_Q_NobleSedge_Stationary":true,
+      "TR_m1_Q_Ingred_NobleSedge":true
     },
     "TR_m1_q51_ingred_BOmusk_UNI":{
       "T_IngCrea_FlyMusk_01":true
     },
-    "plx_slarsa_meat":{
-      "plx_vissed_meat":true
+    "T_IngFlor_Bluefoot_01":{
+      "TR_Ingred_Bluefoot":true
     },
     "T_IngCrea_ShellParastylus_01":{
       "plx_ingred_Shell_Para":true
     },
-    "TR_m7_NVA8_boar_leather":{
-      "ingred_boar_leather":true
+    "T_IngFlor_Harrada_01":{
+      "AB_IngFlor_Harrada_01":true
     },
     "TR_m7_NVA8_ingred_guar_hide_01":{
       "RP_ingred_guar_hide_01":true,
@@ -981,88 +1037,86 @@
       "ingred_guar_hide_marsus":true,
       "ingred_guar_hide_01":true
     },
-    "T_IngMine_Aquamarine_01":{
-      "T_IngMine_AquamarineDae_01":true
+    "Sky_qRe_KW_MG05_PadPersarine":{
+      "T_IngFlor_Persarine_01":true
     },
-    "_MQE_6th_corprusmeat_03":{
-      "_MQE_6th_corprusmeat_01":true,
-      "ingred_6th_corprusmeat_01":true,
-      "_MQE_6th_corprusmeat_02":true
+    "T_IngFlor_NightshadeDae_01":{
+      "T_IngFlor_Nightshade_01":true
     },
-    "T_IngMine_PearlBlack_01":{
-      "T_IngMine_PearlBlackDae_01":true
+    "T_IngFlor_BlackrosePetalDae_01":{
+      "T_IngFlor_BlackrosePetal_01":true,
+      "TR_m1_Q_Ingred_BlackRose":true,
+      "TR_m1_Q_BlackRose_Stationary":true
     },
-    "TR_m2_q_9_BGPetals":{
-      "ingred_bittergreen_petals_01":true
+    "ingred_wolf_heart":{
+      "ingred_udyrfrykte_heart":true,
+      "ingred_daedras_heart_01":true,
+      "ingred_cursed_daedras_heart_01":true,
+      "ingred_innocent_heart":true
     },
     "ingred_raw_ebony_01":{
       "TR_m3_q_A5_SmuggledEbony":true,
       "ingred_Dae_cursed_raw_ebony_01":true
     },
-    "ingred_guar_hide_girith":{
-      "RP_ingred_guar_hide_01":true,
-      "ingred_guar_hide_01":true,
-      "ingred_guar_hide_marsus":true,
-      "TR_m7_NVA8_ingred_guar_hide_01":true
+    "plx_alit_meat":{
+      "plx_alit_meat_B":true,
+      "plx_alit_meat_D":true
     },
-    "ingred_guar_hide_marsus":{
-      "RP_ingred_guar_hide_01":true,
-      "ingred_guar_hide_girith":true,
-      "ingred_guar_hide_01":true,
-      "TR_m7_NVA8_ingred_guar_hide_01":true
+    "T_IngFood_Onion_01":{
+      "Sky_xRe_DH_OnionFloat":true
     },
-    "TR_m3_q_A9_rewardemerald":{
+    "plx_vissed_meat":{
+      "plx_slarsa_meat":true
+    },
+    "T_IngMine_RockCrystalDae_01":{
+      "T_IngMine_Rockcrystal_01":true
+    },
+    "T_IngMine_DiamondDeTomb_01":{
+      "order_sentrydiamond":true,
+      "ingred_diamond_01":true,
+      "TR_i3-280_ingred_cursed_diamond":true,
+      "ingred_Dae_cursed_diamond_01":true
+    },
+    "T_IngFood_FishSlaughterDried_02":{
+      "T_IngFood_FishSlaughterDried_03":true,
+      "T_IngFood_FishSlaughterDried_01":true
+    },
+    "T_IngMine_Moonstone_01":{
+      "T_IngMine_MoonstoneDae_01":true
+    },
+    "TR_m7_NVA8_boar_leather":{
+      "ingred_boar_leather":true
+    },
+    "TR_m4_CoG_human_heart":{
+      "TR_m3_humanheart_i3-453-aun":true
+    },
+    "TR_m4_AA_Tomb_2_Emerald":{
       "ingred_emerald_01":true,
-      "TR_m4_AA_Tomb_2_Emerald":true,
+      "TR_m3_q_A9_rewardemerald":true,
       "luce_ingred_emerald_01_dam":true,
       "T_IngMine_EmeraldDeTomb_01":true,
       "ingred_emerald_pinetear":true,
       "ingred_Dae_cursed_emerald_01":true
     },
-    "T_IngMine_RockCrystalDae_01":{
-      "T_IngMine_Rockcrystal_01":true
+    "plx_kagouti_meat_B":{
+      "ingred_hound_meat_01":true,
+      "plx_kagouti_meat":true,
+      "max_lgnpc_adanja_ingr_01":true,
+      "plx_hound_meat_D":true
     },
-    "TR_m1_Q_Ingred_BlackRose":{
-      "T_IngFlor_BlackrosePetal_01":true,
-      "T_IngFlor_BlackrosePetalDae_01":true,
-      "TR_m1_Q_BlackRose_Stationary":true
+    "T_IngMine_TopazDae_01":{
+      "T_IngMine_Topaz_01":true
     },
-    "ingred_crab_meat_01":{
-      "ingred_crab_meat_01-fried":true,
-      "plx_crab_meat_D":true
+    "TR_m4_HH_ScribPie":{
+      "TR_m4_HH_SqScribPie":true
     },
-    "TR_m3_OE_SvarrTooth":{
-      "T_IngCrea_SaberCatTooth_01":true
-    },
-    "ingred_udyrfrykte_heart":{
-      "ingred_wolf_heart":true,
-      "ingred_daedras_heart_01":true,
-      "ingred_cursed_daedras_heart_01":true,
-      "ingred_innocent_heart":true
-    },
-    "T_IngFood_CheeseWheelNord_01":{
-      "T_IngFood_CheeseWheelNord_02":true
-    },
-    "TR_m7_NVA8_ingred_bear_pelt":{
-      "T_IngCrea_BearpeltCyr_01":true,
-      "ingred_bear_pelt":true
-    },
-    "TR_Ingred_Egg_Molecrab":{
-      "T_IngFood_EggMolecrab_01":true
-    },
-    "jo_kr_vampire_dust":{
-      "ingred_vampire_dust_01":true
-    },
-    "T_IngFlor_NightshadeDae_01":{
-      "T_IngFlor_Nightshade_01":true
-    },
-    "AB_IngFlor_Harrada_01":{
-      "T_IngFlor_Harrada_01":true
+    "TR_m7_NVA8_snowbear_pelt":{
+      "ingred_snowbear_pelt_unique":true
     },
     "T_IngMine_GarnetDae_01":{
       "T_IngMine_Garnet_01":true
     }
   },
-  "gmstValue":15,
-  "modEnabled":true
+  "modEnabled":true,
+  "gmstValue":15
 }

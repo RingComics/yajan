@@ -1,0 +1,11 @@
+{
+  "interiorTransitions":true,
+  "randomiseCloudsSpeed":true,
+  "alterChanges":true,
+  "alterClouds":true,
+  "seasonalWeather":true,
+  "daytime":true,
+  "randomiseParticles":true,
+  "vanChance":20,
+  "debugLogOn":false
+}

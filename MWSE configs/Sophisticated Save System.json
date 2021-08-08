@@ -1,0 +1,11 @@
+{
+  "loadLatestSave":true,
+  "saveOnCombatEnd":true,
+  "saveOnCombatStart":true,
+  "timeBetweenAutoSaves":10,
+  "saveOnTimer":true,
+  "minimumTimeBetweenAutoSaves":1,
+  "maxSaveCount":10,
+  "saveOnCellChange":true,
+  "logSaves":false
+}

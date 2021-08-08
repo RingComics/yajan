@@ -1,0 +1,21 @@
+{
+  "flatHealthPerLevel":5,
+  "miscSkillThreshold":30,
+  "alternateHealthSystem":false,
+  "miscSkillRate":30,
+  "majorSkillRate":50,
+  "minorSkillRate":50,
+  "modEnabled":true,
+  "healthPerEndurance":2,
+  "acrobaticsMod":50,
+  "majorSkillThreshold":0,
+  "minorSkillThreshold":0,
+  "miscLevelThreshold":3,
+  "luckPerLevel":10,
+  "skillDecayMessage":true,
+  "skillDecay":true,
+  "attributeMaximum":200,
+  "skillDecayMin":15,
+  "skillDecayUseBase":true,
+  "skillDecayTime":15
+}

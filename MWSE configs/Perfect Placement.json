@@ -1,10 +1,12 @@
 {
   "keybindSnap":54,
-  "keybindVertical":56,
+  "keybindWallAlign":53,
   "keybindRotate":42,
-  "showGuide":true,
-  "snapN":2,
   "keybind":34,
+  "keybindVertical":56,
+  "initialGroundAlign":true,
+  "snapN":2,
   "sensitivity":15,
-  "keybindWallAlign":53
+  "initialWallAlign":true,
+  "showGuide":true
 }

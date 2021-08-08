@@ -1,0 +1,32 @@
+{
+  "ignored":{
+    "balmora, caius cosades' house":true,
+    "publican":true,
+    "abotwaterlife.esm":true,
+    "abotwhereareallbirdsgoing.esp":true
+  },
+  "homelessWanderersToPublicHouses":false,
+  "lockDoors":true,
+  "disableInteraction":true,
+  "logLevel":0,
+  "badWeatherClassRace":{
+    "t_pya_seaelf":true,
+    "t_cyr_pilgrim":true,
+    "argonian":true,
+    "pilgrim":true,
+    "t_sky_pilgrim":true
+  },
+  "factionIgnorePercentage":66,
+  "timerInterval":7,
+  "disableNPCsInWilderness":false,
+  "cantonCells":1,
+  "minimumOccupancy":4,
+  "disableNPCs":true,
+  "moveNPCs":true,
+  "minimumTrespassDisposition":25,
+  "keepBadWeatherNPCs":true,
+  "closeTime":22,
+  "worstWeather":5,
+  "openTime":7,
+  "showMessages":true
+}

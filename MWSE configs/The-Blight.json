@@ -3,9 +3,9 @@
   "enablePassiveTransmission":true,
   "enableActiveTransmission":true,
   "debugMode":false,
-  "enableProtectiveGear":true,
+  "enableNpcProtectiveGearDistribution":true,
   "enableBlightstormTransmission":true,
   "enableDecalMapping":true,
-  "enableNpcProtectiveGearDistribution":true,
+  "enableProtectiveGear":true,
   "enableTooltip":true
 }

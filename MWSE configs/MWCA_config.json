@@ -4,7 +4,7 @@
   "version":2.06,
   "barrelRivet":true,
   "stayOpen":false,
-  "playSound":true,
+  "activateMode":false,
   "animTimeToWait":1,
-  "activateMode":false
+  "playSound":true
 }

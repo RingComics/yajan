@@ -1,9 +1,11 @@
 {
-  "tooltip":1,
-  "MinChance":0,
-  "MaxItems":20,
   "Break":true,
-  "ConstChance":25,
   "MaxChance":50,
+  "tooltip":1,
+  "OldMult":"3",
+  "MaxItems":20,
+  "MinChance":0,
+  "ConstChance":25,
+  "Hand":false,
   "DegMult":2
 }

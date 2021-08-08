@@ -1,0 +1,7 @@
+{
+  "currentHealthSafety":false,
+  "maxHealthSafety":false,
+  "maintainDifference":true,
+  "minMaxHealth":0,
+  "logging":false
+}

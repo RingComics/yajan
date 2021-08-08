@@ -1,0 +1,7 @@
+{
+  "hotkey":{
+    "keyCode":42
+  },
+  "enabled":true,
+  "logLevel":"INFO"
+}

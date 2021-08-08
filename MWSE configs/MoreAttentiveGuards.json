@@ -1,15 +1,15 @@
 {
   "sneakDialogue":true,
   "ignored":{
-    "mer_tgw_guar":true,
-    "mer_tgw_guar_w":true
+    "mer_tgw_guar_w":true,
+    "mer_tgw_guar":true
   },
   "combatDistance":850,
   "combatDialogue":true,
-  "sneakEnable":true,
+  "sneakDialogueTimer":5,
   "combatEnable":true,
   "debug":false,
-  "sneakDialogueTimer":5,
   "sneakDialogueChance":67,
+  "sneakEnable":false,
   "language":"english"
 }

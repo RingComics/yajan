@@ -2,51 +2,51 @@
   "blacklist":[],
   "modDisabled":false,
   "hideTrapped":true,
-  "maxItemDisplaySize":10,
+  "showScripted":false,
   "takeKey":{
     "keyCode":44,
     "isShiftDown":false,
     "isAltDown":false,
     "isControlDown":false
   },
-  "svengKey":{
-    "keyCode":45,
-    "isShiftDown":false,
-    "isAltDown":false,
-    "isControlDown":false
-  },
+  "hideLocked":false,
   "menuY":4,
+  "showPlants":false,
   "takeAllKey":{
     "keyCode":45,
     "isShiftDown":false,
     "isAltDown":false,
     "isControlDown":false
   },
-  "showScripted":false,
-  "hideTooltip":true,
-  "showPlants":false,
-  "menuX":6,
+  "maxItemDisplaySize":10,
+  "svengKey":{
+    "keyCode":45,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
   "showMessageBox":false,
+  "menuX":6,
   "whitelist":{
     "tr_m2_com_sack_i501_ww":true,
     "tr_m3_i395_sack_local1":true,
     "tr_m2_q_29_fgchest":true,
-    "t_mwcom_furn_ch2fguild":true,
+    "t_mwcom_furn_ch2mguild":true,
     "tr_i3-295-de_p_drinks":true,
     "tr_m2_q_27_fgchest":true,
     "tr_i3-672_de_rm_deskalc":true,
-    "tr_m3_soil_i3-390-ind":true,
-    "tr_m3_oe_anjzhirra_sack":true,
-    "t_mwcom_furn_ch2mguild":true,
+    "tr_m2_com_sack_i501_sl":true,
+    "barrel_01_ahnassi_food":true,
+    "t_mwcom_furn_ch2fguild":true,
     "barrel_01_ahnassi_drink":true,
     "tr_m3_ingchest_i3-390-i":true,
-    "tr_com_sack_02_i501_mry":true,
     "com_chest_02_mg_supply":true,
     "com_chest_02_fg_supply":true,
+    "tr_m3_oe_anjzhirra_sack":true,
     "tr_m2_com_sack_i501_bg":true,
-    "barrel_01_ahnassi_food":true,
-    "tr_m2_com_sack_i501_sl":true
+    "tr_com_sack_02_i501_mry":true,
+    "tr_m3_soil_i3-390-ind":true
   },
-  "hideLocked":false,
+  "hideTooltip":true,
   "activateMode":true
 }

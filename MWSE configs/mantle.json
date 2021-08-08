@@ -1,0 +1,7 @@
+{
+  "trainAcrobatics":true,
+  "enableDebugWidgets":false,
+  "disableThirdPerson":true,
+  "trainClimbing":false,
+  "trainAthletics":false
+}
