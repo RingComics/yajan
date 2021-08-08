@@ -1,8 +1,6 @@
 # You Are Just an N'wah
 > A Morrowind overhaul modlist focused on bringing Morrowind to 2020 in gameplay and graphics.
 
-![YAJAN Scrrenshot](https://raw.githubusercontent.com/RingComics/yajan/main/Morrowind_2021-02-12_06.20.46.765.png)
-
 [Discord](http://discord.gg/6wusMF6) | [YouTube](https://www.youtube.com/channel/UCif_YWnOGA1HLlkH_4rvIwA) | [Twitch](https://www.twitch.tv/ringcomics) | [Patreon](https://www.patreon.com/ringcomics) | [LoadOrderLibrary](https://loadorderlibrary.com/lists/you-are-just-an-nwah)
 ## Inspiration
 - The [Ultimate Skyrim](https://www.ultimateskyrim.com/) modlist for Skyrim by Dylan Perry
