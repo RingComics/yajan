@@ -61,11 +61,11 @@ Other versions of Morrowind are **_NOT SUPPORTED_**
 1. Install Morrowind somewhere outside of Program Files, for example `C:\Games\Morrowind`. Run it at least once to the menu.
 2. Install [Wabbajack](https://www.wabbajack.org/#/) on the same drive as Morrowind, preferably close to the root of your drive (`C:\Wabbajack`).
 3. Make a folder on the same drive as Morrowind for YAJAN (`C:\Games\YAJAN`).
-4. Download the [latest .wabbajack file](https://github.com/RingComics/yajan/releases/latest) and double click it to start the installation.
+4. Download the [latest .wabbajack file](https://github.com/RingComics/yajan/releases/latest) and double click it to start the installation, or install through the Wabbajack Gallery.
 5. Make the folder you created in step 3 your install folder in Wabbajack, the other fields should fill in automatically.
 6. Click install!
    - If the install fails, try restarting it (it can take two or more restarts sometimes). Wabbajack will remember its place and will only download what it's missing.
-   - Head over to the [RingComics Discord](http://discord.gg/6wusMF6) for support if you get stuck here!
+   - Head over to the [RingComics Discord](http://discord.gg/6wusMF6) for support if you get stuck here! Please keep all support requests in the `#yajan-support` channel
 7. Run `Morrowind.exe` in Stock Game Folder to the menu, then exit. If you get the Application Load Error, that's fine, move on to the next step.
    - GOG/Bethesda.net users: If you get a Steam error when you run Morrowind, you need to replace the exe in Stock Game Folder with your original, unpatched vanilla one, then run the Morrowind Code Patch (see above in the "GOG / Bethesda.net versions of Morrowind" section of this readme.)
 8. Run `MWSE-Update.exe` in your Stock Game Folder (`C:\Games\YAJAN\Stock Game Folder`) to make sure MWSE is updated.
