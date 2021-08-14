@@ -23,7 +23,7 @@
 
 ## Introduction
 
-You Are Just an N'wah adds 300+ mods to overhaul the land of Vvardenfell (and beyond, if you choose) to really send home the idea that you are an outlander in an alien land. You need to eat, drink, sleep, and pay attention to the weather. You can become injured, reducing your stats. You can no longer level _all_ of your skills to ungodly levels, but those skills you do focus on can now go beyond vanilla limits. Skills are now more useful than they were before. As an example, Acrobatics is no longer just how far you can jump with the new Climbing Equipment, now you can reach areas that were previously only accessable with Levitate by scaling the wall. Enemies (and allies) have been tweaked so rats are no longer as hostile, but you'll find other enemies are now far deadlier. And you can't just drink 5 bottles of Sujamma to cheese every battle.
+You Are Just an N'wah adds 300+ mods to overhaul the land of Vvardenfell to really send home the idea that you are an outlander in an alien land. You need to eat, drink, sleep, and pay attention to the weather. You can become injured, reducing your stats. You can no longer level _all_ of your skills to ungodly levels, but those skills you do focus on can now go beyond vanilla limits. Skills are now more useful than they were before. As an example, Acrobatics is no longer just how far you can jump with the new Climbing Equipment and mantling system, now you can reach areas that were previously only accessable with Levitate by scaling the wall. Enemies (and allies) have been tweaked so rats are no longer as hostile, but you'll find other enemies are now far deadlier. And you can't just drink 5 bottles of Sujamma to cheese every battle (sorry Micky D).
 
 Graphics have seen a facelift, with the goal not being add as many high res textures as possible, rather maintain the same feeling you'd have gotten in 2002, booting up the game for the first time and experiencing an alien land without thinking about how new or dated the graphics look.
 
@@ -52,7 +52,7 @@ You will also need to rerun Distant Land in MGE XE. If you find other mods that 
 
 ## GOG / Bethesda.net versions of Morrowind
 
-YAJAN is compiled using the Steam version of Morrowind. If you use the GOG or Bethesda.net version, you can patch your `Morrowind.exe` file to work with the YAJAN installation. You can find the patch [here](https://github.com/RingComics/yajan/tree/main/exe%20patch). Make sure to backup your exe file before patching it. Once it has been patched and YAJAN has been installed, you must replace the `Morrowind.exe` in your Stock Game Folder directory in the YAJAN install with the backup, then run Morrowind Code Patch. The Code Patch options have been saved, you just need to hit "Apply Patches" and exit.
+YAJAN is compiled using the Steam version of Morrowind. If you use the GOG or Bethesda.net version, you can patch your `Morrowind.exe` file to work with the YAJAN installation. You can find the patch [here](https://github.com/RingComics/yajan/tree/main/exe%20patch). Make sure to backup your exe file before patching it. Once it has been patched and YAJAN has been installed, you must replace the `Morrowind.exe` in your Stock Game Folder directory in the YAJAN install with the backup, then run Morrowind Code Patch through MO2. The Code Patch options have been saved, you just need to hit "Apply Patches" and exit.
 
 Other versions of Morrowind are **_NOT SUPPORTED_**
 
@@ -72,6 +72,7 @@ Other versions of Morrowind are **_NOT SUPPORTED_**
 9. MGE XE is already mostly configured, but you should launch MGEXEgui through Mod Organizer and double check the settings are configured to your liking.
    - Changing shader settings at all will wipe my current configs, so be careful
    - It is not recommended you increase view distance further than 10 cells in the Distant Land Window
+10. Run Morrowind Code Patch through MO2 and hit "Apply Patches", the correct options should already be ticked.
 10. You can now launch the game through MO2 using the "Morrowind" executable.
 
 # Troubleshooting
@@ -82,7 +83,7 @@ Other versions of Morrowind are **_NOT SUPPORTED_**
   ![Error](https://cdn.discordapp.com/attachments/783306335675875329/809672689648140338/unknown.png)
 
 - If you can’t type in a text box in game, change the “background keyboard” line in morrowind.ini to 1
-- If you get a missing ESP or MCP error message when running the game, replace the exe in `Stock Game Folder` with the vanilla one from your install, then run the MCP again. The MCP options are saved, just hit `Apply Patches`
+- If you get a missing ESP or MCP error message when running the game, replace the exe in `Stock Game Folder` with the vanilla one from your install, then run the MCP again through MO2. The MCP options are saved, just hit `Apply Patches`
 - Check the pinned messages in `#yajan-support` in the [RingComics Discord](http://discord.gg/6wusMF6) server before asking for help, your problem may already be listed!
 - If `Morrowind.exe` is missing during installation, and you are using the GOG or Bethesda.net version of Morrowind, follow the instructions in the "GOG / Bethesda.net versions of Morrowind" section of the readme.
 - If WJ fails to download a mod multiple times, please let me know on the [RingComics Discord](http://discord.gg/6wusMF6) server! There was likely an update and I need to recompile the list with the new mod file.
