@@ -1,8 +1,8 @@
-# You Are Just an N'wah
+<h1 align="center">You Are Just an N'wah</h1>
 
-### A Morrowind overhaul modlist focused on bringing Morrowind to 2020 in gameplay and graphics.
+<h3 align="center">A Morrowind overhaul modlist focused on bringing Morrowind to 2020 in gameplay and graphics.</h3>
 
-<p style="text-align: center;margin: 0"><a href="https://discord.gg/6wusMF6">Discord</a> | <a href="https://www.youtube.com/channel/UCif_YWnOGA1HLlkH_4rvIwA">YouTube</a> | <a href="https://www.twitch.tv/ringcomics">Twitch</a> | <a href="https://www.patreon.com/ringcomics">Patreon</a> | <a href="https://loadorderlibrary.com/lists/you-are-just-an-nwah">LoadOrderLibrary</a></p>
+<p align="center"><a href="https://discord.gg/6wusMF6">Discord</a> | <a href="https://www.youtube.com/channel/UCif_YWnOGA1HLlkH_4rvIwA">YouTube</a> | <a href="https://www.twitch.tv/ringcomics">Twitch</a> | <a href="https://www.patreon.com/ringcomics">Patreon</a> | <a href="https://loadorderlibrary.com/lists/you-are-just-an-nwah">LoadOrderLibrary</a></p>
 
 ## Inspiration
 
