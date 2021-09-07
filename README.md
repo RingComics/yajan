@@ -46,7 +46,7 @@ You will also need to rerun Distant Land in MGE XE. If you find other mods that 
   - YAJAN WILL **_NOT_** WORK WITH OPENMW
 - DirectX 9 or later
 - .NET Framework 3.5
-- Visual C++ 2019
+- Visual C++ Redistributable
 - 4GB+ of VRAM
 - Nexus Premium (for automatic installation, list can still be downloaded the long way through Wabbajack with a free account)
 
